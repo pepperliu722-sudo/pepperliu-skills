@@ -1,0 +1,4 @@
+interface:
+  display_name: "Animate Humanist Posters"
+  short_description: "Create detailed tactile motion from finished posters."
+  default_prompt: "Use $animate-humanist-posters to turn this poster into a detailed 5–8 second humanist motion piece."

@@ -1,139 +1,144 @@
 ---
 name: create-quiet-humanist-designs
-description: Create varied, reference-aware visual art direction in the Quiet Humanist Editorial style for finished posters, campaigns, social graphics, covers, slides, email headers, web heroes, invitations, and editorial cards. Use when Codex needs to design, generate, adapt, critique, or restyle image-led work with poetic restraint, human texture, expressive typography, unusual composition, or a visual metaphor; when a moodboard must be translated into an original variable system; or when a series must feel coherent without repeating one house layout. Finished poster and social deliverables include accurate typeset copy unless the user explicitly requests an art-only visual.
+description: Create original, reference-aware humanist editorial designs with finished copy and accurate typography for posters, social graphics, covers, email, presentations, frontend pages, web heroes, invitations, campaigns, and editorial cards. Use when Codex must design, generate, adapt, critique, or restyle visual work with poetic restraint, tactile materials, muted or weathered color, expressive typography, unusual composition, a clear visual metaphor, or a coherent-but-varied series. Deliver live or precisely typeset text by default unless the user explicitly requests art-only imagery.
 ---
 
 # Create Quiet Humanist Designs
 
 ## Purpose
 
-Turn content into an original visual system that feels intelligent, tactile, emotionally specific, and unmistakably human. Treat Quiet Humanist as an attitude, not a fixed cream-paper collage layout.
+Make visual work that carries judgment, atmosphere, and a human trace. Treat “humanist” as a relationship between idea, material, type, and space—not as a fixed cream-paper collage look.
 
 ## Required workflow
 
-1. State the communication job in one sentence: audience, desired feeling, and action.
-2. Write a copy brief before image-making: exact headline, optional support line, factual metadata, brand/URL, and CTA. Mark which text is required in the final artifact.
-3. Audit available references. If moodboard or poster images exist, read [references/creative-direction.md](references/creative-direction.md), inspect every relevant image, and build a variable map before ideating. If no visual references are available, say so internally and do not pretend to remember them.
-4. Identify the medium and delivery constraints. Read [references/medium-recipes.md](references/medium-recipes.md) for the relevant format.
-5. Propose at least three genuinely different directions before production. Change at least three axes between directions: composition, metaphor class, palette temperature, image-making method, type behavior, density, scale, or focal position. Select the direction that best fits the communication job.
-6. Reduce the selected direction to one visual metaphor. Prefer a content-specific relationship, action, or contradiction over a generic “machine processes paper” scene.
-7. Choose one composition family from [references/style-system.md](references/style-system.md). Combine no more than two families in one artifact.
-8. Define a compact token set:
+1. State the communication job in one sentence: audience, feeling, and intended action.
+2. Build a copy brief before image-making:
+   - exact headline;
+   - concise support line;
+   - factual metadata;
+   - brand or destination;
+   - CTA when needed;
+   - language and tone.
+3. If the user did not supply copy, draft it. Do not omit text because copy is missing.
+4. Inspect every supplied reference. Read [references/creative-direction.md](references/creative-direction.md) and convert observations into independent variables.
+5. Identify the output medium. Read the matching section of [references/medium-recipes.md](references/medium-recipes.md).
+6. Create at least three genuinely different direction cards. Change at least four axes: composition, metaphor, palette, luminance, image method, type behavior, density, scale, focal position, or material.
+7. Read [references/taste-and-variation.md](references/taste-and-variation.md). Reject any direction that is random collage, a palette swap, a repeated house layout, or “dark equals premium.”
+8. Select one direction for a reason tied to message and medium. Reduce it to one primary visual relationship.
+9. Define a compact system:
    - two neutrals;
    - one dominant color;
    - one optional accent;
    - one display type behavior;
    - one supporting type behavior;
-   - one tactile material treatment.
-9. Separate image-making from exact text. Generate or source the visual layer without required copy, then typeset every required headline, body line, date, price, URL, and CTA accurately.
-10. Build the artifact with the most suitable design tool. Use image generation for illustration and texture, presentation tooling for editable slides, document or HTML tooling for email, and vector/layout tooling when precise typography matters.
-11. Render and inspect the finished, typeset artifact at real viewing size and thumbnail size. Revise until hierarchy, legibility, metaphor, and human texture survive the final format.
+   - one primary material and one secondary material;
+   - one human irregularity.
+10. Separate art-making from exact text. Generate or source the visual layer without essential wording, then add accurate typography using the appropriate layout tool.
+11. Render at real size and thumbnail size. Revise until copy, hierarchy, metaphor, material, and crop survive the actual medium.
 
-When generating images or writing production prompts, read [references/prompt-patterns.md](references/prompt-patterns.md).
+Read [references/prompt-patterns.md](references/prompt-patterns.md) when generating imagery or writing production prompts.
 
 ## Finished-text contract
 
-- Treat the visual generated by an image model as an intermediate layer, not the completed poster.
-- For posters, covers, social graphics, invitations, ads, and campaign cards, deliver a typeset final artifact by default.
-- Include all user-requested functional copy. For a feature poster, default to feature name, one concise function description, and brand or destination when known.
-- Omit final text only when the user explicitly asks for a visual layer, background, art-only asset, or text-free variant.
-- Keep exact words out of raster generation when editable post-typesetting is possible.
-- Never present “text will be added later” as completion. Add it before handoff.
+Read [references/copy-and-typography.md](references/copy-and-typography.md) whenever the deliverable contains words.
 
-## Non-negotiable style rules
+- Deliver finished words, not “text-safe space for later.”
+- If the user asks for a poster, include the feature or event name, a concise function or message, and destination or factual metadata when known.
+- Draft concise copy when the user gives only a topic or function.
+- Keep required wording out of raster generation when it can be typeset afterward.
+- Never accept garbled generated text as final typography.
+- Keep text editable in email, PPT, frontend, web, and document outputs.
+- Use semantic live text in frontend and email; preserve accessibility, contrast, reading order, and responsive behavior.
+- Preserve an editable SVG, slide, layout file, HTML/CSS source, or reproducible composition script when practical.
 
-- Use one dominant idea, not a collage of unrelated concepts.
-- Let negative space carry mood and hierarchy, but vary the density deliberately. Use roughly 45–85% quiet area depending on message and medium.
-- Create tension through scale, crop, repetition, interruption, rhythm, silhouette, or spatial contradiction. Tiny people and oversized hands are options, not defaults.
-- Allow controlled imperfection: pencil wobble, crayon fill, screen-print misregistration, halftone, paper fibers, torn edges, or typewriter rhythm.
-- Keep color intentional. Use a restrained palette rather than default gradients or rainbow accents.
-- Make typography behave like an image: unusually small, deliberately oversized, vertically stacked, widely tracked, or placed off-center.
-- Preserve one human fingerprint. Include a handwritten note, uneven mark, small observational detail, or emotionally specific phrase when appropriate.
-- Prefer asymmetrical balance and surprising empty areas over centered template symmetry.
-- Make the metaphor understandable without explaining every symbol.
-- Keep product logos optional and quiet. Never add a logo merely to fill space.
+## Taste principles
 
-## Series variation rules
+- Build one meaningful relationship, not a pile of attractive fragments.
+- Let surprise come from scale, material, occlusion, repetition, fusion, rhythm, or spatial contradiction.
+- Use low-to-medium chroma, dusty color relationships, or a clean medium-saturation field with weathered treatment. “Morandi” means relational restraint, not gray sludge.
+- Default to light or middle-value breathing room. Use a deep field only when the concept needs it; do not make an entire series dark, heavy, or muddy.
+- Preserve substrate: paper fiber, translucent film, fogged glass, pencil, dry ink, halftone, cloth, blur, shadow, or imperfect registration.
+- Allow typography to curve, disappear behind material, become landscape, or interrupt imagery—but keep required copy readable.
+- Use negative space actively. Quiet does not mean empty; texture does not mean dirty.
+- Keep one observed human detail: an awkward pause, hand correction, worn edge, tiny figure, soft shadow, irregular line, or phrase that feels lived.
+
+## Creative range
+
+The style may become:
+
+- a continuous-line landscape;
+- a translucent veil over typography;
+- a fogged photographic field;
+- a hand-drawn anatomical or object fusion;
+- a quiet object stage;
+- a serial rhythm with one break;
+- a type-led spatial composition;
+- a clean muted-color editorial field;
+- a tactile collage with only one or two fragments.
+
+Do not average these into one template. Read [references/style-system.md](references/style-system.md) and choose no more than two composition families per artifact.
+
+## Series rules
 
 For three or more related assets:
 
-- Keep only two or three campaign constants, such as a type system, one recurring mark, or one material behavior.
-- Change at least three visual axes per asset.
-- Do not repeat the same composition family more than twice.
-- Do not place every focal object in the same quadrant.
-- Do not reuse the same metaphor class, dominant color, and material pair across the whole series.
-- Include at least one direction without cream paper, one without a tiny witness figure, and one in which typography—not an object—is the dominant image when the content permits.
-- Compare the proposed asset against earlier outputs. If it could be mistaken for a recolor or object swap, redesign it.
+- keep only two or three campaign constants;
+- change at least four visual axes per asset;
+- do not repeat one composition family more than twice;
+- do not place every focal object in the same quadrant;
+- alternate light, middle, and occasional deep fields;
+- include at least one type-led piece and one piece without cream paper;
+- avoid repeating giant hands, tiny witnesses, machines, magnifiers, torn blue paper, or upper-left headlines;
+- compare each proposal with prior outputs; redesign anything that feels like an object swap.
 
-## Medium adaptation
+## Medium behavior
 
-Preserve the principles, not the exact poster layout:
+- **Poster/social:** one immediate visual relationship, exact typeset copy, thumbnail legibility.
+- **Email:** live HTML body and CTA; visual style concentrated in header, divider, or editorial card.
+- **PPT:** expressive title and section slides; editable structured content; restrained texture around data.
+- **Frontend/web:** semantic text, responsive safe zones, accessible contrast, and motion that does not block use.
+- **Cover/invitation:** intimate factual hierarchy with one material gesture.
 
-- **Poster or cover:** maximize atmosphere, one metaphor, one decisive headline.
-- **Email:** place a strong editorial header above live HTML text; keep CTA and body copy accessible and scannable.
-- **PPT:** use the style strongly on title, section, quote, and closing slides; reduce texture and increase structure on data or process slides.
-- **Social graphic:** make the first reading instant at phone size; use one line of primary copy and one visual gesture.
-- **Web hero:** keep focal material away from responsive text and CTA zones; prepare safe crops.
-- **Editorial card or invitation:** let small type, paper texture, and a single object create intimacy.
+Use [references/medium-recipes.md](references/medium-recipes.md) for detailed constraints.
 
-Read the matching recipe before production.
+## Anti-patterns
 
-## Content-to-visual translation
-
-Convert abstract claims into content-specific scenes. Use the following only as demonstrations of the reasoning pattern, never as default prompt components:
-
-| Content idea | Quiet Humanist translation |
-|---|---|
-| uncertainty | stopwatch casting a question-mark shadow |
-| transformation | machine turning a page into irregular tokens |
-| distance | two tiny figures separated by a hand-drawn horizon |
-| discovery | a small figure crossing a large color field |
-| care | a hand repairing, holding, marking, or arranging |
-| complexity | one ordinary object behaving impossibly |
-| proof | evidence fragment held against an oversized instrument |
-
-Do not reuse these literally unless the content independently leads there. Avoid repeated paper-processing machines, magnifying glasses, giant hands, tiny observers, and question-mark shadows across a series.
-
-## Typography and text integrity
-
-- Use no more than two type families or two visibly distinct lettering modes.
-- Keep exact wording out of raster generation unless the text is intentionally illegible texture.
-- For generated imagery, request clean text-safe space and add real typography afterward.
-- Avoid tiny low-contrast copy, decorative text over texture, and long all-caps paragraphs.
-- Preserve editable text in PPT, email, web, and document outputs.
-- For raster poster delivery, also preserve an editable SVG, slide, layout file, or reproducible composition script when practical.
-
-## Originality and safety
-
-- Extract principles from references; do not reproduce an existing poster, film key art, logo, copyrighted character, or living artist's signature treatment.
-- Replace identifiable branded objects with generic forms unless the user owns or authorizes the asset.
-- Treat moodboards as evidence of proportion, texture, pacing, and color—not as templates to trace.
-- For public-facing work, verify image licensing or create original imagery.
+- generic AI gradients, glassmorphism, glossy 3D, or stock-photo polish;
+- every canvas dark, brown, or heavily distressed;
+- random torn-paper stickers;
+- cream paper plus cobalt as an automatic answer;
+- decorative illegible copy;
+- faux handwriting paragraphs;
+- five unrelated metaphors;
+- perfect vector smoothness without a human trace;
+- copying a recognizable poster, artist, character, or brand treatment;
+- using moodboards as templates rather than variable evidence.
 
 ## Quality gate
 
-Do not deliver until all answers are yes:
+Do not deliver until every answer is yes:
 
-1. Can the message be understood in three seconds at intended size?
-2. Is there exactly one primary focal point?
-3. Does the empty space feel intentional?
-4. Is the color palette restrained and emotionally appropriate?
-5. Is all required text accurate and legible?
-6. Is at least one material or human imperfection visible?
-7. Does the work avoid generic AI gloss, stock-photo energy, and template symmetry?
-8. Does the layout still function in its actual medium?
-9. Is the result original rather than a near-copy of a reference?
-10. Is the final required copy present rather than deferred to a future step?
-11. Does this asset differ materially from earlier assets in the same series?
+1. Can the message be understood in three seconds?
+2. Is there one primary relationship or focal idea?
+3. Is required copy accurate, complete, and readable?
+4. Does the type belong to the composition rather than sit on top of it?
+5. Does the palette breathe, with intentional luminance and restrained chroma?
+6. Is at least one tactile or human irregularity visible?
+7. Does the work avoid generic AI gloss and random collage?
+8. Does it function in the requested medium?
+9. Is it materially different from earlier work in the same series?
+10. Is the result original rather than a near-copy?
 
-## Expected handoff
+## Handoff
 
 Provide:
 
-- a one-sentence concept;
-- the chosen composition family;
-- palette and type behavior;
-- the finished typeset artifact and, when practical, its editable source;
-- image-generation prompts when used;
-- export sizes and crop notes;
-- a brief QA note covering legibility, originality, and medium constraints.
+- one-sentence concept;
+- selected composition family;
+- palette, luminance, type, and material behavior;
+- final finished artifact;
+- editable or reproducible source when practical;
+- exact copy deck;
+- prompts when image generation was used;
+- export size and crop notes;
+- brief QA note.

@@ -110,6 +110,31 @@ Include one detail that feels observed: a handwritten aside, an awkward pause, a
 - The break in the pattern is the focal point.
 - Best for: voice, rhythm, change, editing, process, systems.
 
+### M. Continuous Topology
+
+- Many parallel lines behave as one ribbon, current, terrain, body, or impossible surface.
+- Vary spacing and curvature with intent; do not make generic op-art decoration.
+- Allow a person, word, or object to inhabit or interrupt the line system.
+- Best for: flow, memory, voice, continuity, travel, rhythm.
+
+### N. Material Veil
+
+- Place translucent, fogged, wet, perforated, or reflective material between viewer and type or image.
+- Let partial legibility carry the concept while keeping required information readable elsewhere.
+- Best for: memory, privacy, uncertainty, layers, history, mediation.
+
+### O. Fogged Distance
+
+- Use blur, diffusion, shadow, translucent barriers, or ambiguous depth instead of literal perspective.
+- Pair one unclear image with a compact island of precise factual type.
+- Best for: sound, absence, transition, performance, anticipation.
+
+### P. Morphic Fusion
+
+- Join a body, object, instrument, landscape, or typographic structure into one continuous anatomy.
+- Use line logic and material continuity rather than collage seams.
+- Best for: identity, embodiment, collaboration, music, care, systems.
+
 ## Palette recipes
 
 Use approximate relationships, not mandatory hex values.
@@ -176,9 +201,38 @@ Use approximate relationships, not mandatory hex values.
 - one pale neutral;
 - no additional accent.
 
+### Dusty daylight
+
+- warm bone or chalk;
+- faded ultramarine or washed cyan;
+- charcoal;
+- optional old vermilion.
+
+### Fog and signal
+
+- pale sage-gray;
+- soft black;
+- warm white;
+- one clear yellow used as a signal.
+
+### Parchment anatomy
+
+- unbleached paper;
+- muted plum or bruised blue;
+- graphite;
+- thin old red line.
+
 Avoid generic blue-purple gradients, multicolor glow, glassmorphism, and more than one accent color unless the content requires categorical encoding.
 
 For a series, do not default every asset to Paper and Ink. Rotate field brightness and palette temperature while preserving one campaign constant.
+
+### Luminance policy
+
+- Treat light and middle values as the default breathing field.
+- Use dark stages selectively rather than across an entire series.
+- Do not combine several low-chroma dark colors until the image becomes muddy.
+- A clear medium blue, faded yellow, or old red may remain visibly colorful; restraint comes from proportion and relationship.
+- Keep one area materially clean enough for the eye to rest.
 
 ## Type behavior
 
@@ -233,5 +287,9 @@ Keep the substrate visible. Do not bury it under effects.
 - cream-paper-plus-cobalt as an automatic palette;
 - upper-left headline plus lower-right object repeated across a series;
 - repeated giant hand, tiny observer, paper machine, magnifier, or question-mark shadow;
+- all-dark palettes presented as sophistication;
+- uniformly brown or yellow “vintage” treatment;
+- low saturation without clear value contrast;
+- translucent effects that make required text unreadable;
 - swapping the featured object while keeping the same composition;
 - treating every supplied reference as evidence for the same “quiet collage” average.
