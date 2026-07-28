@@ -1,24 +1,36 @@
 # Prompt Patterns
 
+## Semantic brief before prompting
+
+Do not write an image prompt until this block is complete:
+
+> Content truth: [specific claim or function]. Primary anchor: [recognizable content-derived subject/object]. Action: [visible verb]. Supporting clue: [one specific secondary element]. Trace/result: [visible consequence]. Recognition target: without the headline, viewers should infer [subject area and action].
+
+If the block contains only abstract nouns such as flow, connection, intelligence, transformation, authenticity, or creativity, return to [semantic-to-visual.md](semantic-to-visual.md).
+
 ## Direction-first ideation
 
 Before writing production prompts, create at least three direction cards:
 
-> Direction name: [visual logic, not an artist name]. Message: [single idea]. Metaphor class: [transformation / trace / absence / collision / repetition / threshold / other]. Composition: [family]. Field and palette: [brightness, temperature, dominant color]. Image method: [drawing / photograph / cut paper / silhouette / print / type-led]. Type behavior: [role and placement]. Difference from the other directions: [at least three changed axes]. Predictable choice avoided: [specific cliché].
+> Direction name: [visual logic, not an artist name]. Content truth: [specific idea]. Anchor/action/trace: [same semantic concept expressed clearly]. Degree of realism: [documentary / concrete editorial / mechanistic analogy / symbolic / abstract]. Composition: [family]. Field and palette: [brightness, temperature, dominant color]. Image method: [drawing / photograph / constructed object / print / diagram / other]. Type behavior: [role and placement]. Difference from the other directions: [at least four changed axes]. Predictable choice avoided: [specific cliché].
 
-Do not generate three versions that differ only in color or object.
+Do not generate three versions that differ only in color. Do not change the main object merely to simulate creativity unless each object represents a genuinely different semantic route.
 
 ## Master image prompt
 
 Use this structure and replace every bracketed field:
 
-> Original [medium] artwork in a quiet humanist editorial style. Communicate [single idea] through [one concrete visual metaphor]. Composition: [composition family], with [density] and [spatial tension]. Image method: [chosen method]. Materials: [primary material] with [secondary material]. Restrained palette of [neutral 1], [neutral 2], [dominant], and optional [accent]. Typography-safe area at [location] based on the planned copy. Mood: [two emotional adjectives]. Deliberately authored edges and one human trace, editorial restraint, emotionally specific, no generic AI gloss. [Aspect ratio and resolution]. No logo, no watermark, no legible generated text.
+> Original [medium] artwork about [specific content truth]. The clearly recognizable primary subject is [anchor]. Show it [specific action] with/on/through [supporting clue], visibly causing [trace/result]. The scene should read as [subject area and mechanism] even without a headline. Use [degree of realism] and [image method]. Composition: [composition family], with [density] and [spatial tension]. Materials: [primary material] with [secondary material]. Controlled palette of [neutral 1], [neutral 2], [dominant], and optional [accent]. Typography-safe area at [location] based on the planned copy. Mood: [two emotional adjectives]. Preserve the anchor’s recognizable structure while introducing [one authored deviation]. [Aspect ratio and resolution]. No unrelated symbols, no decorative abstraction, no logo, no watermark, no legible generated text.
 
 Add real typography later unless the generated lettering is purely decorative.
 
 The production prompt must state one repeated campaign habit to avoid, such as:
 
 > Do not use cream paper, cobalt cutouts, a tiny observer, a giant hand, an upper-left headline zone, or a lower-right object because those devices already appear elsewhere in this series.
+
+Also name category clichés that were considered and rejected:
+
+> Do not add a brain, robot, lightbulb, magnifier, fingerprint, gear, or sparkle unless it is part of the selected semantic concept. Do not replace the specific scene with floating abstract shapes.
 
 ## Quiet Field prompt
 
@@ -76,7 +88,7 @@ The production prompt must state one repeated campaign habit to avoid, such as:
 
 Use only when the tool accepts negative instructions:
 
-> Avoid glossy 3D, glassmorphism, default AI neon gradients, corporate stock photography, centered template layout, visual clutter, excessive stickers, random collage fragments, perfect vector smoothness, fake handwriting paragraphs, logos, watermarks, copyrighted characters, imitation of a specific existing poster, and any composition/palette/metaphor already overused in this series.
+> Avoid glossy 3D, glassmorphism, default AI neon gradients, corporate stock photography, centered template layout, visual clutter, excessive stickers, random collage fragments, decorative abstraction unrelated to the content, generic technology icons, perfect vector smoothness, fake handwriting paragraphs, logos, watermarks, copyrighted characters, imitation of a specific existing poster, and any composition/palette/metaphor already overused in this series.
 
 Add when needed:
 
