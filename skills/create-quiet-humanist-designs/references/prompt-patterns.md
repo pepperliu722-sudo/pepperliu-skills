@@ -1,12 +1,24 @@
 # Prompt Patterns
 
+## Direction-first ideation
+
+Before writing production prompts, create at least three direction cards:
+
+> Direction name: [visual logic, not an artist name]. Message: [single idea]. Metaphor class: [transformation / trace / absence / collision / repetition / threshold / other]. Composition: [family]. Field and palette: [brightness, temperature, dominant color]. Image method: [drawing / photograph / cut paper / silhouette / print / type-led]. Type behavior: [role and placement]. Difference from the other directions: [at least three changed axes]. Predictable choice avoided: [specific cliché].
+
+Do not generate three versions that differ only in color or object.
+
 ## Master image prompt
 
 Use this structure and replace every bracketed field:
 
-> Original [medium] artwork in a quiet humanist editorial style. Communicate [single idea] through [one concrete visual metaphor]. Composition: [composition family], with [percentage] negative space and [scale relationship]. Materials: [primary material] with [secondary material]. Restrained palette of [neutral 1], [neutral 2], [dominant], and a small [accent]. Typography-safe empty area at [location]. Mood: [two emotional adjectives]. Deliberately imperfect handmade edges, subtle paper grain, editorial restraint, emotionally specific, no generic AI gloss. [Aspect ratio and resolution]. No logo, no watermark, no legible generated text.
+> Original [medium] artwork in a quiet humanist editorial style. Communicate [single idea] through [one concrete visual metaphor]. Composition: [composition family], with [density] and [spatial tension]. Image method: [chosen method]. Materials: [primary material] with [secondary material]. Restrained palette of [neutral 1], [neutral 2], [dominant], and optional [accent]. Typography-safe area at [location] based on the planned copy. Mood: [two emotional adjectives]. Deliberately authored edges and one human trace, editorial restraint, emotionally specific, no generic AI gloss. [Aspect ratio and resolution]. No logo, no watermark, no legible generated text.
 
 Add real typography later unless the generated lettering is purely decorative.
+
+The production prompt must state one repeated campaign habit to avoid, such as:
+
+> Do not use cream paper, cobalt cutouts, a tiny observer, a giant hand, an upper-left headline zone, or a lower-right object because those devices already appear elsewhere in this series.
 
 ## Quiet Field prompt
 
@@ -28,42 +40,58 @@ Add real typography later unless the generated lettering is purely decorative.
 
 > A clear explanatory diagram for [process] reduced to [3–5] stages, irregular hand-drawn arrows and shapes, one isolated concrete object, cream paper, charcoal, faded cobalt, one warm accent, ample whitespace, accurate visual order, editorial not corporate, no generated labels.
 
+## Type as Landscape prompt
+
+> A type-led editorial image in which abstract block letterforms become [wall/path/horizon/frame] and [small image element] interacts with them. [Dominant field color], [material behavior], asymmetrical crop, authored imperfections, strong silhouette, exact text excluded for later typesetting, no generic poster template.
+
+## Edge Interruption prompt
+
+> A mostly quiet [field] interrupted by one [object/gesture/material] entering aggressively from [edge], with the crop creating the emotional tension. [Image method], restrained palette, one human trace, a deliberately unexpected text-safe zone at [location], no centered composition, no generated words.
+
+## Dark Stage prompt
+
+> A near-black or deep-[color] editorial stage with one [object/gesture] caught in tactile directional light, large areas of photographic or painted darkness, restrained [accent], quiet theatrical tension, no cream paper, no vintage collage, no legible text.
+
+## Serial Rhythm prompt
+
+> One [mark/object/line] repeats across [row/column/spiral] with controlled variation; one break in the rhythm carries the message. [Field color], [print or drawing method], asymmetrical editorial composition, human irregularity, no decorative clutter, no generated labels.
+
 ## Negative direction
 
 Use only when the tool accepts negative instructions:
 
-> Avoid glossy 3D, glassmorphism, neon gradients, corporate stock photography, centered template layout, visual clutter, excessive stickers, random collage fragments, perfect vector smoothness, fake handwriting paragraphs, logos, watermarks, copyrighted characters, and imitation of a specific existing poster.
+> Avoid glossy 3D, glassmorphism, default AI neon gradients, corporate stock photography, centered template layout, visual clutter, excessive stickers, random collage fragments, perfect vector smoothness, fake handwriting paragraphs, logos, watermarks, copyrighted characters, imitation of a specific existing poster, and any composition/palette/metaphor already overused in this series.
 
-## Example: AI-detection educational poster
+## Example: type-led feature poster
 
 Concept:
 
-> A detector score is a fast signal, not proof.
+> Voice is rhythm before it is vocabulary.
 
 Prompt:
 
-> Original 4:5 editorial poster in a quiet humanist style. A hand holds a thin strip of machine-readable marks beneath an oversized analog stopwatch; the stopwatch casts a question-mark shadow. Warm cream paper, charcoal ink, muted vermilion inequality mark, tiny faded teal support accent. Large clean text-safe space in the upper left. Photocopy grain and imperfect screen-print edges, one visual metaphor, no logo, no legible generated text.
+> Original 4:5 type-led editorial artwork. Monumental abstract letter bars form a black staircase across a saturated vermilion field; one bar breaks into an irregular handwritten rhythm. Type as Landscape composition, matte screen-print surface, bone-white and black with no blue or cream-paper collage, strong lower-left crop, top-right text-safe area for exact copy added later, no logo, no legible generated words.
 
 Typeset afterward:
 
-> FAST SCORE ≠ PROOF
+> FIND YOUR RHYTHM
 
-## Example: presentation title slide
-
-Concept:
-
-> Models see patterns before they see meaning.
-
-Prompt:
-
-> Original 16:9 title-slide illustration in a quiet humanist editorial style. An oversized simple paper-processing machine turns one handwritten page into a loose trail of blue geometric tokens, surrounded by large warm-cream negative space. Charcoal linework, faded cobalt shapes, one small ochre dot, paper fibers and dry-crayon texture. Keep the left third empty for editable title text. No logo, no generated text.
-
-## Example: email header
+## Example: dark presentation title slide
 
 Concept:
 
-> Editing is care, not disguise.
+> Revision reveals the sentence already trying to emerge.
 
 Prompt:
 
-> Original wide email-header artwork. One oversized pencil gently repairs a torn sentence line on off-white paper; a tiny red stitch marks the repair. Quiet humanist editorial collage, charcoal, warm cream, faded cobalt, one vermilion accent, tactile paper edge, wide clean area for live HTML heading, no text, no logo, lightweight visual density.
+> Original 16:9 title-slide visual on a near-black painted stage. A single folded strip of white paper catches a narrow warm light and casts two competing sentence-like silhouettes, one rigid and one fluid. Dark Stage composition, graphite edge, oxidized copper pin, restrained photographic grain, right third kept clear for editable title text, no cream field, no tiny figure, no generated words.
+
+## Example: photographic email header
+
+Concept:
+
+> Translation keeps meaning moving between contexts.
+
+Prompt:
+
+> Original wide editorial email header using a high-contrast black-and-white photograph of two translucent fabric layers crossing in opposite directions, interrupted by one flat mineral-green rectangle. Split Field composition, clean matte texture with one imperfect stitched edge, left-side safe zone for live HTML heading, contemporary and tactile, no collage machine, no handwriting, no logo, no generated text.
