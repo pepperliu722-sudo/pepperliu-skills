@@ -2,9 +2,9 @@
 
 ## Essence
 
-Quiet Humanist Editorial combines cinematic minimalism with handmade editorial collage. It feels like a film poster, an artist's notebook, and a small independent press sharing the same visual conscience.
+Quiet Humanist Editorial combines cinematic restraint with evidence of human judgment. It can feel like a film poster, an artist's notebook, a dark theater set, a radical typographic cover, a quiet photograph, or a small independent press.
 
-The style is not “vintage.” Its defining quality is the tension between a highly controlled composition and evidence of a human hand.
+The style is not “vintage,” and it is not synonymous with cream paper and blue collage. Its defining quality is the tension between a highly controlled composition and evidence of a human hand.
 
 ## Six pillars
 
@@ -74,6 +74,42 @@ Include one detail that feels observed: a handwritten aside, an awkward pause, a
 - The diagram should feel authored, not like corporate SmartArt.
 - Best for: learning content, process slides, product education, infographics.
 
+### G. Type as Landscape
+
+- Typography is the dominant spatial object: a wall, path, horizon, shadow, frame, or interruption.
+- Image elements support or disturb the letterforms instead of competing with them.
+- Best for: feature names, manifestos, launches, short statements, campaign anchors.
+
+### H. Edge Interruption
+
+- Most activity enters from or exits through one edge.
+- Use an aggressive crop, partial object, torn boundary, or off-frame gesture.
+- Best for: motion, urgency, transition, arrival, disappearance.
+
+### I. Dense Island
+
+- Concentrate type, imagery, and marks into one compact authored cluster surrounded by a quiet field.
+- Let the cluster feel pinned, stacked, folded, or assembled rather than randomly collaged.
+- Best for: editorial explainers, event cards, multi-part product ideas.
+
+### J. Split Field
+
+- Divide the canvas into two unequal material or color territories.
+- Let one object, line, or phrase cross the boundary to carry the idea.
+- Best for: before/after, translation, tension, comparison, threshold.
+
+### K. Dark Stage
+
+- Use a near-black, deep color, or photographic void with one lit object, gesture, or line.
+- Replace paper nostalgia with theatrical focus and tactile light falloff.
+- Best for: premium launches, night moods, concentrated attention, dramatic invitations.
+
+### L. Serial Rhythm
+
+- Repeat one element with meaningful variation across a row, column, spiral, or irregular sequence.
+- The break in the pattern is the focal point.
+- Best for: voice, rhythm, change, editing, process, systems.
+
 ## Palette recipes
 
 Use approximate relationships, not mandatory hex values.
@@ -112,7 +148,37 @@ Use approximate relationships, not mandatory hex values.
 - black;
 - small bone-white type.
 
+### Night workshop
+
+- near-black or aubergine;
+- warm bone;
+- oxidized copper;
+- optional electric ultramarine.
+
+### Mineral daylight
+
+- chalk white;
+- slate gray;
+- moss or mineral green;
+- optional safety orange.
+
+### Violet carbon
+
+- cool gray;
+- carbon black;
+- muted violet;
+- optional acid yellow used sparingly.
+
+### Photograph and flare
+
+- black-and-white or duotone photograph;
+- one flat saturated field;
+- one pale neutral;
+- no additional accent.
+
 Avoid generic blue-purple gradients, multicolor glow, glassmorphism, and more than one accent color unless the content requires categorical encoding.
+
+For a series, do not default every asset to Paper and Ink. Rotate field brightness and palette temperature while preserving one campaign constant.
 
 ## Type behavior
 
@@ -122,6 +188,8 @@ Avoid generic blue-purple gradients, multicolor glow, glassmorphism, and more th
 - Use handwriting only for one intimate layer; never for long required copy.
 - Create hierarchy through size contrast of roughly 4:1 or greater.
 - Allow titles to sit unusually high, low, narrow, or far from the focal object.
+- Allow type to crop, repeat, mask an image, create a boundary, or become the metaphor.
+- Do not default every title to large black condensed uppercase in the upper-left corner.
 
 ## Material vocabulary
 
@@ -136,6 +204,10 @@ Choose one primary and one secondary material:
 - torn or scissor-cut paper;
 - screen-print grain;
 - typewriter or stamped letters.
+- painted cloth or matte stage surface;
+- photographic shadow or projected light;
+- monoprint, risograph, or blind emboss;
+- clean colored stock with one handmade interruption.
 
 Keep the substrate visible. Do not bury it under effects.
 
@@ -158,3 +230,8 @@ Keep the substrate visible. Do not bury it under effects.
 - large paragraphs baked into generated images;
 - “minimalism” that is merely empty and emotionally neutral;
 - direct imitation of a recognizable film poster or artist.
+- cream-paper-plus-cobalt as an automatic palette;
+- upper-left headline plus lower-right object repeated across a series;
+- repeated giant hand, tiny observer, paper machine, magnifier, or question-mark shadow;
+- swapping the featured object while keeping the same composition;
+- treating every supplied reference as evidence for the same “quiet collage” average.
