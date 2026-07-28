@@ -1,38 +1,50 @@
 ---
 name: create-quiet-humanist-designs
-description: Create coherent visual art direction in the Quiet Humanist Editorial style for posters, email campaigns and headers, PowerPoint or slide decks, social graphics, covers, web hero sections, invitations, editorial cards, and other image-led design. Use when Codex needs to design, generate, adapt, critique, or restyle visual work with poetic minimalism, cinematic negative space, handmade marks, paper texture, restrained color, editorial typography, small human figures, isolated objects, or a single visual metaphor. Also use when translating a reference moodboard into an original cross-medium visual system without copying its protected characters, logos, or exact compositions.
+description: Create varied, reference-aware visual art direction in the Quiet Humanist Editorial style for finished posters, campaigns, social graphics, covers, slides, email headers, web heroes, invitations, and editorial cards. Use when Codex needs to design, generate, adapt, critique, or restyle image-led work with poetic restraint, human texture, expressive typography, unusual composition, or a visual metaphor; when a moodboard must be translated into an original variable system; or when a series must feel coherent without repeating one house layout. Finished poster and social deliverables include accurate typeset copy unless the user explicitly requests an art-only visual.
 ---
 
 # Create Quiet Humanist Designs
 
 ## Purpose
 
-Turn content into an original visual system that feels quiet, intelligent, tactile, and unmistakably human. Preserve the style across media without forcing every artifact into the same layout.
+Turn content into an original visual system that feels intelligent, tactile, emotionally specific, and unmistakably human. Treat Quiet Humanist as an attitude, not a fixed cream-paper collage layout.
 
 ## Required workflow
 
 1. State the communication job in one sentence: audience, desired feeling, and action.
-2. Identify the medium and delivery constraints. Read [references/medium-recipes.md](references/medium-recipes.md) for the relevant format.
-3. Reduce the message to one visual metaphor. Prefer an ordinary object, tiny figure, gesture, landscape, or spatial contradiction over decorative imagery.
-4. Choose one composition family from [references/style-system.md](references/style-system.md). Do not combine more than two families in one artifact.
-5. Define a compact token set:
+2. Write a copy brief before image-making: exact headline, optional support line, factual metadata, brand/URL, and CTA. Mark which text is required in the final artifact.
+3. Audit available references. If moodboard or poster images exist, read [references/creative-direction.md](references/creative-direction.md), inspect every relevant image, and build a variable map before ideating. If no visual references are available, say so internally and do not pretend to remember them.
+4. Identify the medium and delivery constraints. Read [references/medium-recipes.md](references/medium-recipes.md) for the relevant format.
+5. Propose at least three genuinely different directions before production. Change at least three axes between directions: composition, metaphor class, palette temperature, image-making method, type behavior, density, scale, or focal position. Select the direction that best fits the communication job.
+6. Reduce the selected direction to one visual metaphor. Prefer a content-specific relationship, action, or contradiction over a generic “machine processes paper” scene.
+7. Choose one composition family from [references/style-system.md](references/style-system.md). Combine no more than two families in one artifact.
+8. Define a compact token set:
    - two neutrals;
    - one dominant color;
    - one optional accent;
    - one display type behavior;
    - one supporting type behavior;
    - one tactile material treatment.
-6. Separate image-making from exact text. Generate or source the visual layer first; typeset headlines, body copy, charts, dates, prices, and CTAs as editable text whenever the medium permits.
-7. Build the artifact with the most suitable design tool. Use image generation for illustration and texture, presentation tooling for editable slides, document or HTML tooling for email, and vector/layout tooling when precise typography matters.
-8. Render and inspect the result at its real viewing size. Revise until hierarchy, legibility, metaphor, and human texture survive the final format.
+9. Separate image-making from exact text. Generate or source the visual layer without required copy, then typeset every required headline, body line, date, price, URL, and CTA accurately.
+10. Build the artifact with the most suitable design tool. Use image generation for illustration and texture, presentation tooling for editable slides, document or HTML tooling for email, and vector/layout tooling when precise typography matters.
+11. Render and inspect the finished, typeset artifact at real viewing size and thumbnail size. Revise until hierarchy, legibility, metaphor, and human texture survive the final format.
 
 When generating images or writing production prompts, read [references/prompt-patterns.md](references/prompt-patterns.md).
+
+## Finished-text contract
+
+- Treat the visual generated by an image model as an intermediate layer, not the completed poster.
+- For posters, covers, social graphics, invitations, ads, and campaign cards, deliver a typeset final artifact by default.
+- Include all user-requested functional copy. For a feature poster, default to feature name, one concise function description, and brand or destination when known.
+- Omit final text only when the user explicitly asks for a visual layer, background, art-only asset, or text-free variant.
+- Keep exact words out of raster generation when editable post-typesetting is possible.
+- Never present “text will be added later” as completion. Add it before handoff.
 
 ## Non-negotiable style rules
 
 - Use one dominant idea, not a collage of unrelated concepts.
-- Let negative space carry mood and hierarchy. Aim for 55–85% quiet area on covers, posters, hero graphics, and title slides.
-- Create scale tension: a tiny person against a large field, an oversized hand, an isolated object, or a monumental shadow.
+- Let negative space carry mood and hierarchy, but vary the density deliberately. Use roughly 45–85% quiet area depending on message and medium.
+- Create tension through scale, crop, repetition, interruption, rhythm, silhouette, or spatial contradiction. Tiny people and oversized hands are options, not defaults.
 - Allow controlled imperfection: pencil wobble, crayon fill, screen-print misregistration, halftone, paper fibers, torn edges, or typewriter rhythm.
 - Keep color intentional. Use a restrained palette rather than default gradients or rainbow accents.
 - Make typography behave like an image: unusually small, deliberately oversized, vertically stacked, widely tracked, or placed off-center.
@@ -40,6 +52,18 @@ When generating images or writing production prompts, read [references/prompt-pa
 - Prefer asymmetrical balance and surprising empty areas over centered template symmetry.
 - Make the metaphor understandable without explaining every symbol.
 - Keep product logos optional and quiet. Never add a logo merely to fill space.
+
+## Series variation rules
+
+For three or more related assets:
+
+- Keep only two or three campaign constants, such as a type system, one recurring mark, or one material behavior.
+- Change at least three visual axes per asset.
+- Do not repeat the same composition family more than twice.
+- Do not place every focal object in the same quadrant.
+- Do not reuse the same metaphor class, dominant color, and material pair across the whole series.
+- Include at least one direction without cream paper, one without a tiny witness figure, and one in which typography—not an object—is the dominant image when the content permits.
+- Compare the proposed asset against earlier outputs. If it could be mistaken for a recolor or object swap, redesign it.
 
 ## Medium adaptation
 
@@ -56,7 +80,7 @@ Read the matching recipe before production.
 
 ## Content-to-visual translation
 
-Convert abstract claims into concrete scenes:
+Convert abstract claims into content-specific scenes. Use the following only as demonstrations of the reasoning pattern, never as default prompt components:
 
 | Content idea | Quiet Humanist translation |
 |---|---|
@@ -68,7 +92,7 @@ Convert abstract claims into concrete scenes:
 | complexity | one ordinary object behaving impossibly |
 | proof | evidence fragment held against an oversized instrument |
 
-Do not reuse these literally when a more specific metaphor fits the user's content.
+Do not reuse these literally unless the content independently leads there. Avoid repeated paper-processing machines, magnifying glasses, giant hands, tiny observers, and question-mark shadows across a series.
 
 ## Typography and text integrity
 
@@ -77,6 +101,7 @@ Do not reuse these literally when a more specific metaphor fits the user's conte
 - For generated imagery, request clean text-safe space and add real typography afterward.
 - Avoid tiny low-contrast copy, decorative text over texture, and long all-caps paragraphs.
 - Preserve editable text in PPT, email, web, and document outputs.
+- For raster poster delivery, also preserve an editable SVG, slide, layout file, or reproducible composition script when practical.
 
 ## Originality and safety
 
@@ -98,6 +123,8 @@ Do not deliver until all answers are yes:
 7. Does the work avoid generic AI gloss, stock-photo energy, and template symmetry?
 8. Does the layout still function in its actual medium?
 9. Is the result original rather than a near-copy of a reference?
+10. Is the final required copy present rather than deferred to a future step?
+11. Does this asset differ materially from earlier assets in the same series?
 
 ## Expected handoff
 
@@ -106,7 +133,7 @@ Provide:
 - a one-sentence concept;
 - the chosen composition family;
 - palette and type behavior;
-- the editable artifact or production-ready asset;
+- the finished typeset artifact and, when practical, its editable source;
 - image-generation prompts when used;
 - export sizes and crop notes;
 - a brief QA note covering legibility, originality, and medium constraints.

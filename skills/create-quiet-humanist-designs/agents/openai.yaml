@@ -1,4 +1,4 @@
 interface:
   display_name: "Quiet Humanist Design"
-  short_description: "Poetic editorial visuals across every medium"
-  default_prompt: "Use $create-quiet-humanist-designs to turn this content into a quiet, human, editorial visual system."
+  short_description: "Varied editorial visuals with finished typography"
+  default_prompt: "Use $create-quiet-humanist-designs to create a distinctive, reference-aware editorial design and deliver the finished typeset artifact."
