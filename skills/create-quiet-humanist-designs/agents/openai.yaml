@@ -1,4 +1,4 @@
 interface:
-  display_name: "Humanist Editorial Design"
-  short_description: "Create tactile editorial visuals with finished typography."
-  default_prompt: "Use $create-quiet-humanist-designs to create an original humanist editorial design with finished copy and accurate typography."
+  display_name: "Content-First Humanist Design"
+  short_description: "Create recognizable content-led visuals with finished type."
+  default_prompt: "Use $create-quiet-humanist-designs to turn this content into a recognizable, inventive humanist visual with finished copy."
