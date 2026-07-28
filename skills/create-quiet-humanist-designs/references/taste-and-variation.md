@@ -4,6 +4,8 @@
 
 Humanist work shows selection, restraint, and evidence of touch. It may be clean or weathered, photographic or drawn, bright or quiet. It does not require nostalgia, beige paper, collage, or a tiny person.
 
+Humanist is an art-direction layer applied to a content-specific concept. It must not turn every subject into the same poetic abstraction.
+
 ## Reference variable map
 
 The following directions come from observable principles across supplied references and successful prior work. Recombine the variables; do not reproduce any source.
@@ -36,6 +38,8 @@ Keep two or three constants:
 
 Vary the rest:
 
+- semantic anchor;
+- action and visible trace;
 - field brightness;
 - focal position;
 - metaphor class;
@@ -60,6 +64,10 @@ Examples:
 
 Reject a direction when:
 
+- the image could advertise several unrelated products by changing only the headline;
+- the anchor came from a generic icon list rather than the content;
+- the object has no action, context, or consequence;
+- abstraction has erased what the subject is;
 - removing the texture leaves no idea;
 - the fragments have no causal relationship;
 - “vintage” is doing all the emotional work;
@@ -68,4 +76,4 @@ Reject a direction when:
 - the typography could be moved anywhere without affecting the composition;
 - the reference is recognizable as a template being copied.
 
-Choose the direction where message, material, type, and space depend on one another.
+Choose the direction where subject, action, trace, message, material, type, and space depend on one another.
