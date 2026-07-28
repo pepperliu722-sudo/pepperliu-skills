@@ -66,6 +66,16 @@ Read only the recipe relevant to the current deliverable.
 - Provide a low-detail or solid-color fallback.
 - Check that the CTA remains visually dominant and accessible.
 
+## Frontend page or application
+
+- Keep navigation, headings, body copy, controls, form labels, validation, and CTAs as semantic live text.
+- Translate the visual language into spacing, color, dividers, image treatment, and selected display moments rather than texturing every surface.
+- Preserve keyboard access, focus states, logical reading order, and accessible contrast.
+- Use tactile effects on hero areas, section transitions, illustrations, or editorial cards—not behind dense functional UI.
+- Create responsive rules rather than relying on one fixed poster crop.
+- Respect reduced-motion preferences when animation is present.
+- Keep the product usable when decorative images fail to load.
+
 ## Invitation, announcement, or editorial card
 
 - Favor Object Theatre, Notebook Horizon, or Editorial Cutout.
@@ -89,3 +99,4 @@ Read only the recipe relevant to the current deliverable.
 4. Translate, rather than crop, the concept into PPT title and section slides.
 5. Use a quieter header version for email.
 6. Keep the campaign idea consistent while varying composition, palette weight, focal position, and metaphor execution across assets.
+7. Keep factual copy and interaction patterns native to each medium rather than baking a poster into every surface.
