@@ -56,3 +56,22 @@ Before production, confirm:
 - the result is not a near-copy of one source;
 - the result is not a palette swap of an earlier campaign asset;
 - the selected focal position, palette, and metaphor are not all repeated from the previous output.
+
+## 6. Check causal coherence
+
+Ask why every major element is present:
+
+- Does the material change the meaning or only decorate it?
+- Does the person or object interact with the structure?
+- Does the typography participate in the visual logic?
+- Would replacing the focal object leave the idea unchanged?
+- Does the palette support atmosphere and hierarchy?
+
+Remove any element that has no visual or semantic consequence.
+
+## 7. Check luminance and air
+
+- Compare the amount of light, middle, and dark value.
+- Reject accidental all-dark or muddy directions.
+- Keep at least one clean resting field.
+- When references are mostly pale, do not add heavy distress merely to signal “human.”
