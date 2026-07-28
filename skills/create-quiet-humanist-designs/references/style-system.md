@@ -6,6 +6,19 @@ Quiet Humanist Editorial combines cinematic restraint with evidence of human jud
 
 The style is not “vintage,” and it is not synonymous with cream paper and blue collage. Its defining quality is the tension between a highly controlled composition and evidence of a human hand.
 
+## Representation before composition
+
+Choose how directly to depict the selected semantic anchor before choosing a composition family:
+
+- **Documentary scene:** real person, place, process, or use context.
+- **Constructed still life:** recognizable objects arranged to perform the mechanism.
+- **Editorial illustration:** drawn subject with simplified but accurate structure.
+- **Material experiment:** the content’s object or trace expressed through paper, cloth, glass, print, or physical residue.
+- **Mechanistic diagram:** process, comparison, or system made spatially clear.
+- **Typographic mechanism:** letters or sentences act as the actual material being examined, moved, revised, or transformed.
+
+Preserve the anchor’s identity. Texture, cropping, fusion, and distortion may add surprise, but should not erase the object or action.
+
 ## Six pillars
 
 ### 1. Quiet fields
@@ -14,7 +27,7 @@ Use large areas of cream paper, foggy white, sea blue, deep teal, ochre, or satu
 
 ### 2. One visual metaphor
 
-Anchor the design with one scene or object. Let an impossible scale, shadow, crop, or relationship carry the idea.
+Anchor the design with one content-specific scene or object. Let its action, impossible scale, shadow, crop, or relationship carry the idea.
 
 ### 3. Human traces
 
@@ -23,6 +36,8 @@ Use pencil, dry crayon, ink wobble, handwriting, paper folds, photocopy grain, s
 ### 4. Scale dissonance
 
 Pair very small human figures with a monumental field, an oversized body fragment with a tiny subject, or a familiar object with an unexpected shadow.
+
+Use this only when the scale relationship helps explain the content. Do not add a tiny person as an automatic sign of sophistication.
 
 ### 5. Restrained editorial type
 
@@ -284,6 +299,9 @@ Keep the substrate visible. Do not bury it under effects.
 - large paragraphs baked into generated images;
 - “minimalism” that is merely empty and emotionally neutral;
 - direct imitation of a recognizable film poster or artist.
+- choosing a composition family before identifying the content-specific anchor;
+- abstract ribbon, blob, fog, or texture used where a concrete subject is available;
+- a familiar icon presented alone without mechanism, action, or trace;
 - cream-paper-plus-cobalt as an automatic palette;
 - upper-left headline plus lower-right object repeated across a series;
 - repeated giant hand, tiny observer, paper machine, magnifier, or question-mark shadow;
