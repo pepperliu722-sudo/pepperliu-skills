@@ -2,14 +2,28 @@
 
 Read only the recipe relevant to the current deliverable.
 
+## Contents
+
+- Poster and cover
+- Social graphic
+- Email
+- PowerPoint
+- Web hero
+- Frontend
+- Invitation
+- Infographic
+- Cross-format campaign
+
 ## Poster and cover
 
-- Choose the composition family that best serves the message; do not default to Quiet Field, Monument and Witness, or Object Theatre.
-- Reserve roughly 45–85% quiet space according to the intended density.
-- Plan one exact headline, one optional support line, and minimal credits or metadata before generating the visual.
+- Read [functional-poster-grammar.md](functional-poster-grammar.md).
+- Plan the headline, required function or invitation line, focal image, kicker, and identity before generating the illustration.
+- Default to editorial density with a visible headline–image relationship; use extreme negative space only when it strengthens communication.
+- Choose the composition family after the reading order and poster spine are clear.
 - Check at thumbnail size and full size.
 - Common exports: 4:5 social poster, A-series print, 2:3 cover, 16:9 event screen.
-- Add exact typography after image generation and deliver the finished typeset artifact. An art-only visual is incomplete unless the user explicitly requested it.
+- Generate the illustration layer, then assemble exact typography with a deterministic layout tool.
+- Deliver the finished typeset composite and an editable or reproducible source. An art-only visual is incomplete unless explicitly requested.
 
 ## Social graphic
 
@@ -20,6 +34,7 @@ Read only the recipe relevant to the current deliverable.
 - Avoid logos unless identity or attribution requires one.
 - Include the requested feature name, concise description, and destination or brand when the graphic is promotional.
 - Deliver a typeset final graphic, not only a text-safe background.
+- Reject anything that reads as an uncaptioned art image rather than a communication graphic.
 
 ## Email campaign or header
 

@@ -1,4 +1,4 @@
 interface:
-  display_name: "Content-First Humanist Design"
-  short_description: "Create recognizable content-led visuals with finished type."
-  default_prompt: "Use $create-quiet-humanist-designs to turn this content into a recognizable, inventive humanist visual with finished copy."
+  display_name: "Humanist Communication Design"
+  short_description: "Create communicative handmade editorial visuals."
+  default_prompt: "Use $create-quiet-humanist-designs to turn this content into a finished, communicative design with recognizable handmade imagery and exact typography."

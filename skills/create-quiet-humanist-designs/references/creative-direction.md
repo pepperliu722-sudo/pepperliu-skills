@@ -16,6 +16,8 @@ Keep the anchor recognizable through every stylistic experiment.
 
 Inspect every relevant image at useful resolution. Record observable traits rather than artist names or vague labels:
 
+- communication hierarchy and reading order;
+- relationship between headline, function copy, image, and identity;
 - composition and focal position;
 - density and negative-space shape;
 - palette temperature, contrast, and color proportions;
@@ -37,7 +39,7 @@ Convert the references into independent variables. Example:
 | Field | saturated flat color; white void; full-bleed photo; dark stage |
 | Composition | edge crop; centered monument; dense island; split field; serial strip |
 | Type | huge condensed; tiny serif; vertical grotesk; handwritten interruption |
-| Image method | ink drawing; halftone photo; torn color paper; silhouette; stamped marks |
+| Image method | ink drawing; halftone photo; printed apparatus; cut paper; miniature set; stamped marks |
 | Metaphor | transformation; mismatch; absence; repetition; trace; collision |
 | Texture | clean matte; coarse screen print; graphite; fold; photocopy |
 
@@ -50,6 +52,7 @@ Create at least three directions from different combinations of the variable map
 - borrow principles from multiple references rather than tracing one;
 - change at least three axes from the others;
 - preserve or strengthen the selected content anchor and action;
+- define a complete communication architecture, not only an illustration;
 - state what is constant and what is new;
 - name one predictable choice it deliberately avoids.
 
@@ -75,6 +78,8 @@ Ask why every major element is present:
 - Does the material change the meaning or only decorate it?
 - Does the person or object interact with the structure?
 - Does the typography participate in the visual logic?
+- Is the function line easy to find and understand?
+- Does the identity or destination have a stable home?
 - Would replacing the focal object leave the idea unchanged?
 - Does the palette support atmosphere and hierarchy?
 - Does the scene still depict the intended content when the title is hidden?

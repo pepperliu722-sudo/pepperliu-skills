@@ -1,10 +1,23 @@
 # Quiet Humanist Editorial — Style System
 
+## Contents
+
+- Essence and representation
+- Six pillars
+- Composition families
+- Palette recipes
+- Type behavior
+- Material vocabulary
+- Density
+- Anti-patterns
+
 ## Essence
 
 Quiet Humanist Editorial combines cinematic restraint with evidence of human judgment. It can feel like a film poster, an artist's notebook, a dark theater set, a radical typographic cover, a quiet photograph, or a small independent press.
 
 The style is not “vintage,” and it is not synonymous with cream paper and blue collage. Its defining quality is the tension between a highly controlled composition and evidence of a human hand.
+
+For functional communication, begin with [functional-poster-grammar.md](functional-poster-grammar.md) and [handmade-cinematic-language.md](handmade-cinematic-language.md). Treat the composition families below as options after the poster spine, anchor, action, and type hierarchy are defined.
 
 ## Representation before composition
 
@@ -18,6 +31,8 @@ Choose how directly to depict the selected semantic anchor before choosing a com
 - **Typographic mechanism:** letters or sentences act as the actual material being examined, moved, revised, or transformed.
 
 Preserve the anchor’s identity. Texture, cropping, fusion, and distortion may add surprise, but should not erase the object or action.
+
+Default feature posters toward content-derived scenes rendered through editorial drawing, constructed materials, tactile print, cinematic staging, or another justified method. Do not let a style family select the subject, and do not default to atmospheric abstraction.
 
 ## Six pillars
 
@@ -41,7 +56,7 @@ Use this only when the scale relationship helps explain the content. Do not add 
 
 ### 5. Restrained editorial type
 
-Use typography sparingly. Favor one strong title treatment with supporting copy that is much smaller. Use dramatic spacing and placement rather than decorative effects.
+Use one strong title treatment with a clearly readable function line and stable metadata. Use dramatic spacing and placement rather than decorative effects. Sparse typography must still perform the communication job.
 
 ### 6. Emotional specificity
 
@@ -304,7 +319,7 @@ Keep the substrate visible. Do not bury it under effects.
 - a familiar icon presented alone without mechanism, action, or trace;
 - cream-paper-plus-cobalt as an automatic palette;
 - upper-left headline plus lower-right object repeated across a series;
-- repeated giant hand, tiny observer, paper machine, magnifier, or question-mark shadow;
+- repeating any prior focal object, witness figure, apparatus, or shadow device without fresh content justification;
 - all-dark palettes presented as sophistication;
 - uniformly brown or yellow “vintage” treatment;
 - low saturation without clear value contrast;

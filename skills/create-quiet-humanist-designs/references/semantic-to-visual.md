@@ -2,6 +2,17 @@
 
 Use this reference before choosing style, palette, composition, or image-generation prompts.
 
+## Contents
+
+- Separate names from meaning
+- Build a semantic field
+- Create and score an anchor inventory
+- Form a visual sentence
+- Choose literalness
+- Branching without canonical mappings
+- Recognition tests
+- Familiar-object safeguards
+
 ## 1. Separate names from meaning
 
 A title often names a feature without explaining it. Expand the content into:
@@ -84,34 +95,22 @@ The object alone is not the concept. The relationship between object, action, an
 Choose a level:
 
 1. **Documentary:** show the real user, place, or workflow.
-2. **Concrete editorial:** stage a recognizable object or action with one improbable relationship.
+2. **Concrete editorial:** draw, print, collage, or stage a recognizable object or action with one precise unexpected relationship.
 3. **Mechanistic analogy:** use a physical system that shares the same process.
 4. **Symbolic:** use a culturally legible sign with specific supporting evidence.
 5. **Abstract:** use form, rhythm, or material alone.
 
-Default to levels 1–3. Use level 4 carefully. Use level 5 only when the subject or request supports abstraction.
+For product features, promotional posters, social graphics, and title visuals, default to level 2 with hand-drawn, printed, collaged, or constructed treatment. Use level 1 when the real person or workflow is the message. Use level 3 when the mechanism can be represented accurately. Use level 4 carefully. Use level 5 only when the subject or user explicitly calls for abstraction.
 
-## 7. Examples are branches, not mappings
+Do not mistake realism for clarity. A simplified ink drawing of a specific tool in action may communicate better than a photoreal scene.
 
-For a feature about recurring characteristics in writing, possible branches include:
+## 7. Branch without canonical mappings
 
-- marks from several texts converging into a distinctive trace;
-- a typesetter sorting recurring phrase shapes;
-- a manuscript whose revisions reveal a consistent rhythm;
-- a loom weaving sentence fragments into one recognizable fabric;
-- a physical archive showing lineage between drafts.
+For every brief, create at least three semantic routes from different roles: direct subject, action, trace, environment, transformation, or precise analogy.
 
-A fingerprint may be one branch because it communicates distinctive trace, but it is not the definition of the feature.
+Do not store topic-to-object pairs in the skill. Do not reuse a prior anchor because it illustrated a neighboring topic. Compare current candidates on specificity, recognition, agency, trace, freshness, and emotional fit.
 
-For a feature that reviews suspicious patterns, possible branches include:
-
-- layered pages whose repetitions align under transmitted light;
-- an editor marking recurring structures in the margin;
-- a sieve separating uniform fragments from varied ones;
-- a forensic desk comparing sentence specimens;
-- a reader inspecting changes between two printed states.
-
-A magnifier may be useful in one direction, but inspection can be expressed through light, comparison, annotation, alignment, filtering, or testing.
+Examples supplied by a user are evidence about reasoning quality, not default visual assets.
 
 ## 8. Recognition tests
 

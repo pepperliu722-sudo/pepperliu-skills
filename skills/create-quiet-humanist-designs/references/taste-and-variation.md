@@ -6,18 +6,20 @@ Humanist work shows selection, restraint, and evidence of touch. It may be clean
 
 Humanist is an art-direction layer applied to a content-specific concept. It must not turn every subject into the same poetic abstraction.
 
+For functional posters, preserve a hand-made editorial core: recognizable drawing or constructed objects, analog print behavior, strong hierarchy, and a clear explanatory sentence. Vary the execution without abandoning this communicative backbone.
+
 ## Reference variable map
 
 The following directions come from observable principles across supplied references and successful prior work. Recombine the variables; do not reproduce any source.
 
 | Direction | Spatial idea | Material | Color logic | Type behavior | Surprise |
 |---|---|---|---|---|---|
-| Continuous current | Many parallel lines fold into one impossible ribbon or terrain | dry ink or clean printed line | clear blue with bone white; medium value | words follow or interrupt the current | a person inhabits the line system |
-| Veiled type | A translucent sheet partially hides oversized lettering | fogged film, condensation, glass, plastic | bone, black, one old red | text exists both behind and outside the veil | legibility changes through material |
-| Fogged distance | A quiet field is interrupted by figures or objects behind a diffusing plane | frosted glass, blur, shadow | pale sage-gray with one clear yellow | compact factual type beside an ambiguous image | distance is created without perspective |
-| Fused anatomy | Bodies, objects, and instruments share one continuous structure | pencil, wax, thin red line, stained paper | parchment, charcoal, muted plum or ochre | little or no display type | function and body become inseparable |
-| Printed mechanism | A machine, tool, or process creates a visible trace | aged paper, dry ink, faded cobalt | warm light field with restrained blue/red | precise editorial hierarchy | function becomes a physical scene |
-| Color-field cutout | One monumental object or workbench occupies a light or mid-value field | cut paper, graphite, halftone | ochre, chalk, muted red, black | strong scale contrast | ordinary work becomes architecture |
+| Drawn action | The selected anchor performs one clear action | ink contour, graphite, screen-print fill | content-led restrained palette | large title plus plain function line | the contact or change carries the idea |
+| Constructed process | Input, action, and result occupy one staged space | tactile materials, dry ink, halftone | clear field with two or three pigments | precise editorial hierarchy | function becomes a physical scene |
+| Monumental anchor | The strongest content-derived trace or result becomes the main image | coarse print, collage, drawn annotation | warm neutral, one dominant, one accent | title counterweights the image | evidence is enlarged into landscape |
+| Tactile sequence | Several content-derived states show a clear change | graphite, stamps, layered strips | light field with two flat pigments | labels form a stable rhythm | process reads like a small film |
+| Cinematic stage | A content-specific scene holds before-or-after tension | halftone, projected light, painted field | saturated or dark field with clear contrast | title-card hierarchy | blocking creates narrative tension |
+| Mixed-media scene | Drawing meets one or two justified material fragments | crayon, pencil, photocopy | context-led palette | authored display plus factual support | rough marks remain tightly composed |
 
 ## Luminance discipline
 
@@ -64,6 +66,10 @@ Examples:
 
 Reject a direction when:
 
+- it looks like a raw generated image instead of a finished poster;
+- headline, function line, image, and identity do not form a reading order;
+- hand-drawn feeling is reduced to random doodles or a uniform texture filter;
+- vintage feeling is reduced to sepia, dirt, or darkness;
 - the image could advertise several unrelated products by changing only the headline;
 - the anchor came from a generic icon list rather than the content;
 - the object has no action, context, or consequence;

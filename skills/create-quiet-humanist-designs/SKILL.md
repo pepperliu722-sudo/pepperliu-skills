@@ -1,30 +1,35 @@
 ---
 name: create-quiet-humanist-designs
-description: Create original, content-specific humanist editorial designs with recognizable imagery, finished copy, and accurate typography for posters, social graphics, covers, email, presentations, frontend pages, web heroes, invitations, campaigns, and editorial cards. Use when Codex must translate a product feature, service, event, argument, story, or theme into a concrete visual concept; design, generate, adapt, critique, or restyle visual work; or build a coherent-but-varied series. Extract representative subjects, objects, actions, traces, and environments from the content before choosing an art style. Deliver live or precisely typeset text by default unless the user explicitly requests art-only imagery.
+description: Create communicative, content-specific humanist editorial designs with recognizable handmade imagery, strong poster hierarchy, finished copy, and accurate typography for product-feature posters, social graphics, campaigns, covers, email, presentations, frontend pages, web heroes, invitations, and editorial cards. Use when Codex must translate a feature, service, event, argument, story, or theme into a visual that explains and attracts; build hand-drawn, print-textured, collage, miniature-set, or vintage-cinematic art direction; adapt references without copying them; or create a coherent but varied series. Analyze content and select representative subjects, actions, and evidence before styling, then deliver a fully assembled communication artifact rather than a raw generated image.
 ---
 
 # Create Quiet Humanist Designs
 
 ## Purpose
 
-Create images that belong to their content. Make the subject recognizable first, then make it surprising, tactile, and human.
+Make communication design with a human hand and a cinematic memory. Let viewers recognize the subject, understand the promise, and want to look longer.
 
-Treat humanist art direction as the manner of seeing and making—not as a substitute for meaning and not as a fixed cream-paper, abstract-line, or collage look.
+Preserve three layers in this order:
+
+1. **communication:** the message and required information are immediately clear;
+2. **concept:** a content-specific object, action, or trace makes the message visible;
+3. **character:** drawing, print, collage, paper, light, and irregularity give the work a soul.
+
+Do not let concept art or texture replace communication.
 
 ## Non-negotiable order
 
-Follow this sequence:
+1. Understand the content.
+2. Write the communication spine.
+3. Extract representative visual anchors.
+4. Form a concrete visual sentence.
+5. Design the poster or layout architecture.
+6. Select a handmade or cinematic image language.
+7. Generate or construct the illustration layer.
+8. Assemble exact typography and identity.
+9. Verify the finished artifact in context.
 
-1. understand the content;
-2. choose a representative visual anchor;
-3. define a concrete scene, action, or transformation;
-4. test recognizability;
-5. choose an art direction;
-6. generate or construct the image;
-7. add exact typography;
-8. verify the finished medium.
-
-Do not begin with palette, texture, composition family, or a favorite visual device.
+Do not begin with a style prompt. Do not deliver the generated illustration layer as the finished design.
 
 ## Required workflow
 
@@ -34,165 +39,212 @@ State:
 
 - what the thing is;
 - what it does;
-- what enters and what changes;
+- what enters, changes, and comes out;
 - what the user sees, touches, decides, or receives;
 - what evidence proves the result;
-- what emotional or practical consequence matters.
+- why the result matters.
 
-For a product feature, distinguish the feature name from its actual mechanism and benefit. For a cultural or narrative subject, identify the central character, object, place, ritual, tension, or consequence.
+For a product feature, distinguish the feature name, mechanism, user benefit, and proof. For an event or story, identify the protagonist, object, place, ritual, tension, and invitation.
 
 Read [references/semantic-to-visual.md](references/semantic-to-visual.md) before proposing imagery.
 
-### 2. Build the copy brief
+### 2. Write the communication spine
 
-Prepare the exact headline, support line, factual metadata, brand or destination, CTA when needed, language, and tone.
+Prepare:
 
-If the user did not supply copy, draft it. Do not omit text because copy is missing.
+- **kicker or category:** feature number, event type, chapter, or context;
+- **headline:** exact name or central claim;
+- **function line:** one plain sentence explaining what it does or why it matters;
+- **identity:** brand, URL, organizer, author, or destination;
+- **action or metadata:** CTA, date, place, status, or source when needed;
+- **optional human note:** one short phrase that adds voice without replacing explanation.
 
-### 3. Generate visual anchors from the content
+Read [references/copy-and-typography.md](references/copy-and-typography.md).
 
-List 6–10 candidates across different semantic roles:
+### 3. Extract visual anchors
 
-- subject or protagonist;
-- tool or interface made physical;
-- input material;
-- output or visible trace;
-- user gesture;
-- environment or workflow;
-- transformation;
-- evidence, residue, comparison, or consequence.
+Generate 6–10 content-derived candidates across subjects, tools, documents, gestures, environments, transformations, and visible evidence.
 
-Prefer nouns and verbs found in or strongly implied by the content. Do not default to generic symbols.
+Shortlist three using:
 
-Shortlist three anchors that are specific, depictable, distinctive at thumbnail size, capable of action, and not overused in the current series.
+- content specificity;
+- immediate recognition;
+- ability to perform an action;
+- visible consequence or trace;
+- strong silhouette or structure;
+- freshness within the series.
 
-Examples such as fingerprints for patterned authorship or magnification for close inspection illustrate the reasoning method only. They are not required mappings and must not recur automatically.
+Do not maintain canonical object mappings for any topic or feature name. Select every visual anchor from the current content model and compare it with alternatives before use.
 
-### 4. Turn anchors into scenes
+### 4. Form the visual sentence
 
-Create at least three concept cards. Each must state:
+For each shortlisted route, write:
 
-- **content truth:** the exact idea being communicated;
-- **primary anchor:** the recognizable subject or object;
-- **action:** what it is doing;
-- **result or trace:** what changes because of the action;
-- **supporting clue:** one secondary detail that makes the meaning more specific;
-- **visual sentence:** “A [anchor] [action], leaving or causing [result], so the viewer understands [content truth].”
+> A [recognizable anchor] [specific action] with [supporting clue], producing [visible evidence], so the viewer understands [function or message].
 
-Use one primary anchor, one supporting clue, and one consequential trace. Avoid piles of symbols.
+Use one primary anchor, one supporting clue, and one consequential trace. Prefer a simple scene with a precise idea over an elaborate allegory.
 
-### 5. Pass the recognizability gate
+Pass the recognition tests in [references/semantic-to-visual.md](references/semantic-to-visual.md). Pure abstraction is not a default for functional communication.
 
-Before styling, ask:
+### 5. Design the communication architecture
 
-1. If the headline were hidden, could a viewer infer the correct subject area?
-2. Could the main object be replaced with an unrelated object without changing the idea?
-3. Does the image show an action, mechanism, use context, or evidence—not merely a mood?
-4. Is the connection understandable without a paragraph of explanation?
-5. Is the concept more specific than “flow,” “transformation,” “connection,” or “intelligence”?
+Before image generation, create a layout blueprint showing:
 
-Reject concepts that fail. Pure abstraction is allowed only when the subject itself is abstract or the user explicitly requests it.
+- headline block;
+- function line;
+- visual subject and action;
+- kicker or feature label;
+- identity or destination;
+- optional note or signal mark;
+- reading order and safe areas.
 
-### 6. Choose the visual language
+Read [references/functional-poster-grammar.md](references/functional-poster-grammar.md) for posters, social graphics, covers, title slides, and hero sections.
 
-Only after the concept passes, inspect supplied references and read:
+Make image and type interdependent. The illustration should point toward, frame, interrupt, carry, reveal, measure, or physically support the message. Do not reserve an arbitrary empty rectangle and call it composition.
 
-- [references/creative-direction.md](references/creative-direction.md) for reference analysis;
-- [references/taste-and-variation.md](references/taste-and-variation.md) for variation;
-- [references/style-system.md](references/style-system.md) for composition, image method, color, type, and material.
+### 6. Select the image language
 
-Create at least three genuinely different art directions for the selected content concept. Change at least four axes: degree of realism, image method, composition, palette, luminance, type behavior, density, scale, focal position, or material.
+Default functional work toward one of these:
 
-The same semantic anchor may become a photograph, drawing, constructed object, print, diagram, miniature scene, typographic mechanism, or material experiment. Do not confuse stylistic variety with swapping the subject.
+- hand-drawn editorial illustration;
+- screen-printed or risograph-like rendering;
+- paper-and-ink collage;
+- constructed physical scene;
+- halftone image with drawn intervention;
+- tactile explanatory diagram;
+- typographic material treatment.
 
-### 7. Select and produce
+Read [references/handmade-cinematic-language.md](references/handmade-cinematic-language.md).
 
-Choose the direction that best balances semantic specificity, three-second recognition, visual surprise, emotional fit, medium fitness, and distance from prior outputs.
+Use photography, clean vector work, or more abstract systems only when they better serve the brief. “Humanist” does not mean polished realism, beige nostalgia, or random doodles.
 
-Aim for recognizable structure with an authored deviation. A useful default is roughly 70% legibility and 30% surprise, adjusted to the brief.
+These are rendering methods, not subject libraries. Never select the visual object from the style family.
 
-Read [references/medium-recipes.md](references/medium-recipes.md) for the requested output and [references/prompt-patterns.md](references/prompt-patterns.md) when generating imagery.
+### 7. Create varied directions
 
-### 8. Typeset and verify
+Create at least three directions. Keep the communication spine stable, but change at least four of:
 
-Separate art-making from exact text. Generate or source the visual layer without essential wording, then add accurate typography using the appropriate layout tool.
+- anchor or semantic route;
+- scene and action;
+- image-making method;
+- composition;
+- title behavior;
+- palette and luminance;
+- scale;
+- focal position;
+- material;
+- degree of cinematic staging.
 
-Read [references/copy-and-typography.md](references/copy-and-typography.md) whenever the deliverable contains words.
+Inspect supplied references through [references/creative-direction.md](references/creative-direction.md) and check repetition through [references/taste-and-variation.md](references/taste-and-variation.md).
 
-Render at real size and thumbnail size. Revise until content, copy, hierarchy, object, action, material, and crop survive the actual medium.
+Select the route that best balances immediate communication, memorable imagery, emotional fit, hand-made character, and medium fitness.
 
-## Finished-text contract
+### 8. Produce and assemble
 
-- Deliver finished words, not “text-safe space for later.”
-- Include the feature or event name, a concise explanation, and destination or factual metadata when known.
-- Draft concise copy when the user gives only a topic or function.
-- Never accept garbled generated text as final typography.
-- Keep text editable in email, PPT, frontend, web, and document outputs.
-- Use semantic live text in frontend and email.
-- Preserve an editable SVG, slide, layout file, HTML/CSS source, or reproducible composition script when practical.
+Read [references/prompt-patterns.md](references/prompt-patterns.md) when using image generation.
 
-## Content-first taste principles
+Generate the illustration without essential wording unless the image model can reproduce the exact supplied text reliably. Then use a deterministic layout tool to add:
 
-- Let the image explain something the copy claims.
-- Build a causal relationship, not an inventory of icons.
-- Use concrete objects, bodies, tools, spaces, materials, interfaces, and traces when the content offers them.
-- Make the unexpected move happen to a recognizable thing.
-- Let style intensify the concept; never use style to hide a weak concept.
-- Use low-to-medium chroma or controlled clear color. “Morandi” means relational restraint, not gray sludge.
-- Default to light or middle-value breathing room. Use deep fields selectively.
-- Preserve one or two human traces: paper fiber, pencil, dry ink, imperfect registration, cloth, blur, wear, handwriting, or observed gesture.
-- Keep required copy readable even when display typography participates in the scene.
+- exact headline;
+- function line;
+- metadata;
+- identity;
+- required labels and CTA.
+
+Use SVG, HTML/CSS, presentation software, a design tool, or a reproducible composition script. Proofread character by character.
+
+Never present an untypeset image-generation result as the final poster. Never replace final assembly with a prompt or a text-safe mockup.
+
+### 9. Verify the finished medium
+
+Read [references/medium-recipes.md](references/medium-recipes.md). Render the assembled artifact at real size and thumbnail size.
+
+Check:
+
+- three-second comprehension;
+- title-first reading order;
+- functional explanation;
+- recognizable subject and action;
+- handmade or cinematic character;
+- exact typography;
+- crop, contrast, and destination.
+
+## Handmade and cinematic defaults
+
+- Favor drawn contours, dry ink, graphite, crayon, screen-print grain, halftone, imperfect registration, scissor-cut edges, aged paper, or constructed tabletop materials.
+- Let imperfections follow the object: ink pools at corners, pencil corrections follow gestures, grain changes by material, and shadows reveal depth.
+- Use vintage-film logic through framing, blocking, scale, prop selection, title-card hierarchy, dramatic crops, and directional light—not through sepia alone.
+- Keep objects structurally recognizable. Hand-drawn does not mean anatomically broken or childishly vague.
+- Use restrained but alive color: bone, charcoal, faded blue, old red, mineral green, ochre, washed yellow, or other context-led combinations.
+- Keep at least one clean field so the poster can breathe and the copy can work.
+
+## Functional poster contract
+
+For posters, covers, social graphics, campaign cards, title slides, and web heroes:
+
+- make the headline readable at first glance;
+- include a concise function or invitation line;
+- make the focal image explain or dramatize the content;
+- include identity, destination, or factual metadata when known;
+- design a deliberate eye path;
+- deliver the final composite with exact type;
+- retain an editable or reproducible source.
+
+An attractive illustration with a loose caption is not enough.
 
 ## Series rules
 
 For three or more related assets:
 
-- derive a separate semantic anchor from each item;
-- keep only two or three campaign constants;
-- change at least four visual axes per asset;
-- do not reuse one symbol merely because it worked before;
-- do not repeat one composition family more than twice;
-- include variation in realism, scale, luminance, and image method;
-- redesign any object swap or layout clone.
+- keep one communication hierarchy and two or three material constants;
+- derive a distinct semantic anchor for each subject;
+- vary image method, composition, luminance, scale, and title behavior;
+- allow recognizable recurring brand signals without repeating the whole layout;
+- do not reuse a symbol merely because it worked once;
+- reject object swaps inside an unchanged template.
 
 ## Anti-patterns
 
-- abstract shapes chosen before understanding the content;
-- generic symbols standing in for research;
-- fingerprints, magnifiers, brains, robots, lightbulbs, gears, or magic sparkles used by reflex;
-- a beautiful image whose meaning depends entirely on its headline;
-- one object floating in space without action, context, or consequence;
-- five literal icons arranged as a collage;
-- generic AI gradients, glassmorphism, glossy 3D, or stock-photo polish;
-- every canvas dark, brown, heavily distressed, or cream-and-cobalt;
-- decorative illegible copy or generated gibberish;
+- raw image-generation output delivered as a poster;
+- abstract composition with the feature name pasted on;
+- atmosphere that overwhelms the functional explanation;
+- one object floating without action or evidence;
+- generic icon lists or literal icon collages;
+- childish doodles used as a shortcut for human feeling;
+- polished 3D, glossy AI imagery, glassmorphism, or stock-photo advertising;
+- texture applied uniformly like a filter;
+- sepia used as the whole meaning of vintage;
+- every canvas cream-and-cobalt, dark brown, or distressed;
+- generated gibberish, missing support copy, or decorative illegibility;
 - copying a recognizable poster, artist, character, or brand treatment.
 
 ## Quality gate
 
 Do not deliver until every answer is yes:
 
-1. Does the image visibly relate to this specific content?
-2. Can the message be understood in three seconds?
-3. Is there a recognizable primary anchor?
-4. Does it perform an action or create a meaningful trace?
-5. Would changing the anchor materially change the concept?
-6. Is the supporting clue useful rather than decorative?
-7. Is the visual treatment inventive without erasing meaning?
-8. Is required copy accurate, complete, and readable?
-9. Does the palette breathe and the requested medium function?
-10. Is the result materially different from earlier work and original?
+1. Does it look like a finished communication artifact rather than a generated picture?
+2. Is the headline the first readable message?
+3. Is the function, invitation, or consequence stated plainly?
+4. Does the image visibly belong to this specific subject?
+5. Does the anchor perform an action or leave evidence?
+6. Do type and image form one composition?
+7. Is the handmade or cinematic character visible in the actual forms, not only a filter?
+8. Is the concept inventive without becoming obscure?
+9. Is all required copy exact, readable, and complete?
+10. Does it work at both full size and thumbnail size?
+11. Is it distinct from earlier work without abandoning the campaign?
+12. Is the final composite—not only the art layer—delivered?
 
 ## Handoff
 
 Provide:
 
-- one-sentence content truth;
-- selected anchor, action, and trace;
-- one-sentence visual concept;
-- selected art direction and why;
-- final finished artifact;
+- communication spine;
+- selected anchor, action, and evidence;
+- layout blueprint and reading order;
+- selected image language;
+- final assembled artifact;
 - editable or reproducible source when practical;
 - exact copy deck;
-- image-generation prompts when used;
-- export size, crop notes, and brief QA.
+- image-generation prompt when used;
+- export size, crop notes, and QA result.
