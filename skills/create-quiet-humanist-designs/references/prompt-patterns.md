@@ -1,129 +1,104 @@
 # Prompt Patterns
 
-## Semantic brief before prompting
+Use image generation for the illustration layer. Use a deterministic layout tool for final typography and assembly.
 
-Do not write an image prompt until this block is complete:
+## Contents
 
-> Content truth: [specific claim or function]. Primary anchor: [recognizable content-derived subject/object]. Action: [visible verb]. Supporting clue: [one specific secondary element]. Trace/result: [visible consequence]. Recognition target: without the headline, viewers should infer [subject area and action].
+- Semantic brief
+- Poster blueprint
+- Illustration families
+- Master prompt
+- Family patterns
+- Final assembly
+- Negative direction
 
-If the block contains only abstract nouns such as flow, connection, intelligence, transformation, authenticity, or creativity, return to [semantic-to-visual.md](semantic-to-visual.md).
+## 1. Complete the semantic brief
 
-## Direction-first ideation
+Do not prompt until this is specific:
 
-Before writing production prompts, create at least three direction cards:
+> Content truth: [function, invitation, or consequence]. Primary anchor: [recognizable content-derived subject]. Action: [visible verb]. Supporting clue: [one relevant detail]. Evidence/result: [visible consequence]. Recognition target: without the title, viewers should infer [subject area and action].
 
-> Direction name: [visual logic, not an artist name]. Content truth: [specific idea]. Anchor/action/trace: [same semantic concept expressed clearly]. Degree of realism: [documentary / concrete editorial / mechanistic analogy / symbolic / abstract]. Composition: [family]. Field and palette: [brightness, temperature, dominant color]. Image method: [drawing / photograph / constructed object / print / diagram / other]. Type behavior: [role and placement]. Difference from the other directions: [at least four changed axes]. Predictable choice avoided: [specific cliché].
+If it contains only `flow`, `connection`, `intelligence`, `transformation`, `authenticity`, or `creativity`, return to [semantic-to-visual.md](semantic-to-visual.md).
 
-Do not generate three versions that differ only in color. Do not change the main object merely to simulate creativity unless each object represents a genuinely different semantic route.
+## 2. Complete the poster blueprint
 
-## Master image prompt
+Record:
 
-Use this structure and replace every bracketed field:
+> Format: [size and ratio]. Headline block: [location and approximate share]. Function line: [location]. Focal illustration: [location, scale, crop]. Kicker: [location]. Identity/metadata: [location]. Image–type relationship: [counterweight / overlap / carry / point / reveal / measure / transform / frame]. Reading order: [1 → 2 → 3 → 4].
 
-> Original [medium] artwork about [specific content truth]. The clearly recognizable primary subject is [anchor]. Show it [specific action] with/on/through [supporting clue], visibly causing [trace/result]. The scene should read as [subject area and mechanism] even without a headline. Use [degree of realism] and [image method]. Composition: [composition family], with [density] and [spatial tension]. Materials: [primary material] with [secondary material]. Controlled palette of [neutral 1], [neutral 2], [dominant], and optional [accent]. Typography-safe area at [location] based on the planned copy. Mood: [two emotional adjectives]. Preserve the anchor’s recognizable structure while introducing [one authored deviation]. [Aspect ratio and resolution]. No unrelated symbols, no decorative abstraction, no logo, no watermark, no legible generated text.
+Do not ask the image model to improvise the final poster layout.
 
-Add real typography later unless the generated lettering is purely decorative.
+## 3. Choose the illustration family
 
-The production prompt must state one repeated campaign habit to avoid, such as:
+Prefer:
 
-> Do not use cream paper, cobalt cutouts, a tiny observer, a giant hand, an upper-left headline zone, or a lower-right object because those devices already appear elsewhere in this series.
+- drawn rendering;
+- constructed physical rendering;
+- tactile collage rendering;
+- printed diagram rendering;
+- cinematic staging;
+- halftone rendering with drawn intervention;
+- typographic material rendering.
 
-Also name category clichés that were considered and rejected:
+Read [handmade-cinematic-language.md](handmade-cinematic-language.md).
 
-> Do not add a brain, robot, lightbulb, magnifier, fingerprint, gear, or sparkle unless it is part of the selected semantic concept. Do not replace the specific scene with floating abstract shapes.
+These choices control execution only. Fill every subject, prop, action, and setting slot from the semantic brief.
 
-## Quiet Field prompt
+## Master illustration prompt
 
-> A vast [color/material] field with one tiny [figure/object] near [edge/horizon], extreme negative space, sparse cinematic composition, small editorial text-safe area kept empty, subtle analog grain, quiet tension, original scene, no logo, no generated words.
+Replace every bracketed field:
 
-## Monument and Witness prompt
+> Create the illustration layer for a functional [poster/social graphic/cover/title slide/web hero] about [specific content truth]. Show a clearly recognizable [primary anchor] [specific action] with [supporting clue], visibly producing [evidence/result]. The scene must communicate [subject area and mechanism] before any title is added. Image language: [rendering method], built from [two or three analog techniques]. Keep all content-derived forms structurally legible and every physical interaction plausible. Stage them with [cinematic blocking, crop, scale, or directional light]. Controlled palette: [two neutrals], [dominant], and optional [accent]. Preserve the planned [headline/function-line] area at [location], but let the illustration [chosen image–type relationship] rather than sitting independently. Mood: [two adjectives]. Include one observed human irregularity: [specific detail derived from the scene]. [Aspect ratio and resolution]. No essential words, logo, watermark, unrelated symbols, floating abstract shapes, glossy 3D, stock-photo advertising, or uniform texture filter.
 
-> One monumental cropped [hand/face/tool/landscape/shadow] occupying [region], a tiny [person/object] providing scale, warm uncoated paper, charcoal and one muted accent, photocopy or pencil texture, poetic editorial composition, no stock-photo polish, no text.
+Add one series-specific avoidance:
 
-## Object Theatre prompt
+> Do not repeat [recent anchor, quadrant, palette, title behavior, or composition].
 
-> A single ordinary [object] staged against a flat [dominant color] field, the object behaves impossibly by [transformation or shadow], long tactile shadow, restrained print texture, graphic editorial poster logic, one focal point, no branding, no text.
+## Family patterns
 
-## Notebook Horizon prompt
+### Drawn rendering
 
-> Open off-white notebook paper with visible fold, low hand-drawn [sea/land/room] horizon, two or fewer naïve figures, graphite and faded crayon, quiet autobiographical mood, abundant blank paper, authentic uneven marks, no polished digital illustration, no legible text.
+> Render [content-derived scene] with uneven ink contour, selective graphite detail, flat printed fills, and one restrained collage or stamped interruption. Keep the primary anchor immediate at thumbnail size. Use authored line variation rather than childish wobble. Preserve [copy area] while the scene [chosen image–type relationship].
 
-## Diagram as Poetry prompt
+### Constructed physical rendering
 
-> A clear explanatory diagram for [process] reduced to [3–5] stages, irregular hand-drawn arrows and shapes, one isolated concrete object, cream paper, charcoal, faded cobalt, one warm accent, ample whitespace, accurate visual order, editorial not corporate, no generated labels.
+> Construct [content-derived scene] from plausible materials selected from the brief. Show [input or starting state], [action], and [result] with a clear causal relationship. Stage it like a still from an old film with a decisive crop and foreground–background logic. Do not introduce props that were not justified by the semantic brief.
 
-## Type as Landscape prompt
+### Tactile collage rendering
 
-> A type-led editorial image in which abstract block letterforms become [wall/path/horizon/frame] and [small image element] interacts with them. [Dominant field color], [material behavior], asymmetrical crop, authored imperfections, strong silhouette, exact text excluded for later typesetting, no generic poster template.
+> Build [content-derived scene] from no more than three material groups. Use one connecting behavior to reveal [specific evidence]. Maintain a clear primary anchor, action, and trace. Avoid unrelated clippings or fragments selected only for texture.
 
-## Edge Interruption prompt
+### Printed diagram rendering
 
-> A mostly quiet [field] interrupted by one [object/gesture/material] entering aggressively from [edge], with the crop creating the emotional tension. [Image method], restrained palette, one human trace, a deliberately unexpected text-safe zone at [location], no centered composition, no generated words.
+> Explain [content-derived process] through [3–5] concrete states. Use tactile marks with an accurate sequence and visible cause and effect. Keep labels out of the image layer for later typesetting. Make the structure authored and legible, not corporate or ornamental.
 
-## Dark Stage prompt
+### Cinematic staging
 
-> A near-black or deep-[color] editorial stage with one [object/gesture] caught in tactile directional light, large areas of photographic or painted darkness, restrained [accent], quiet theatrical tension, no cream paper, no vintage collage, no legible text.
+> Stage [content-derived anchor and supporting clue] at a moment just before, during, or after [action]. Use directional light, off-center blocking, depth, and a decisive crop. Let the visible consequence carry the message. Apply analog print behavior locally rather than using a full-image vintage filter.
 
-## Serial Rhythm prompt
+### Halftone with drawn intervention
 
-> One [mark/object/line] repeats across [row/column/spiral] with controlled variation; one break in the rhythm carries the message. [Field color], [print or drawing method], asymmetrical editorial composition, human irregularity, no decorative clutter, no generated labels.
+> Render [content-derived documentary scene] in duotone or coarse halftone. Add one drawn intervention that reveals [specific mechanism or consequence]. Keep the source content specific and avoid stock poses or decorative marks.
 
-## Continuous Topology prompt
+### Typographic material rendering
 
-> Many parallel [ink/printed/thread] lines form one continuous [ribbon/current/terrain/body] across a [light or medium-value field]. The lines fold, cross, and change spacing with clear spatial logic; one [person/object/word-safe interruption] inhabits the structure. Restrained [palette], tactile but not dirty, generous breathing room, no generic op-art pattern, no generated words.
+> Treat the exact content category—such as language, numbers, labels, or symbols—as physical material only when the brief genuinely involves it. Show that material undergoing [action] and producing [trace]. Exclude required wording for later exact typesetting.
 
-## Material Veil prompt
+## Final assembly instructions
 
-> Oversized editorial typography and one restrained image are partially obscured by a [fogged/translucent/wet/perforated] material plane. The material changes visibility and meaning rather than acting as decoration. [Bone/light neutral] field, [one old accent], clear external text-safe zone for exact copy, intimate physical detail, no glossy glassmorphism, no generated words.
+After generating the illustration:
 
-## Fogged Distance prompt
+1. Select or crop the image against the planned blueprint.
+2. Restore clean fields where required; do not blur the image merely to make copy fit.
+3. Add exact headline, function line, kicker, identity, metadata, and CTA using live or deterministic type.
+4. Make one intentional image–type interaction.
+5. Proofread character by character.
+6. Export the fully assembled artifact.
 
-> A pale [sage/gray/chalk] field seen through diffusing glass or cloth, with [figures/objects/shadows] appearing at different distances. One compact factual type-safe island at [location], one clear signal accent, quiet tension, soft photographic ambiguity, no dark cinematic wash, no generated words.
-
-## Morphic Fusion prompt
-
-> A hand-drawn fusion of [body] and [object/instrument/landscape/type structure] sharing one continuous anatomy. Fine graphite contour, stained paper, muted [plum/ochre/blue], thin old-red connective lines, large quiet field, emotionally specific and original, no collage seams, no generated words.
+Do not deliver step 1 as the final result.
 
 ## Negative direction
 
-Use only when the tool accepts negative instructions:
+Use only when accepted by the tool:
 
-> Avoid glossy 3D, glassmorphism, default AI neon gradients, corporate stock photography, centered template layout, visual clutter, excessive stickers, random collage fragments, decorative abstraction unrelated to the content, generic technology icons, perfect vector smoothness, fake handwriting paragraphs, logos, watermarks, copyrighted characters, imitation of a specific existing poster, and any composition/palette/metaphor already overused in this series.
-
-Add when needed:
-
-> Avoid an all-dark or muddy palette. Keep the field light or middle-value with one clear resting area.
-
-## Example: type-led feature poster
-
-Concept:
-
-> Voice is rhythm before it is vocabulary.
-
-Prompt:
-
-> Original 4:5 type-led editorial artwork. Monumental abstract letter bars form a black staircase across a saturated vermilion field; one bar breaks into an irregular handwritten rhythm. Type as Landscape composition, matte screen-print surface, bone-white and black with no blue or cream-paper collage, strong lower-left crop, top-right text-safe area for exact copy added later, no logo, no legible generated words.
-
-Typeset afterward:
-
-> FIND YOUR RHYTHM
-
-## Example: dark presentation title slide
-
-Concept:
-
-> Revision reveals the sentence already trying to emerge.
-
-Prompt:
-
-> Original 16:9 title-slide visual on a near-black painted stage. A single folded strip of white paper catches a narrow warm light and casts two competing sentence-like silhouettes, one rigid and one fluid. Dark Stage composition, graphite edge, oxidized copper pin, restrained photographic grain, right third kept clear for editable title text, no cream field, no tiny figure, no generated words.
-
-## Example: photographic email header
-
-Concept:
-
-> Translation keeps meaning moving between contexts.
-
-Prompt:
-
-> Original wide editorial email header using a high-contrast black-and-white photograph of two translucent fabric layers crossing in opposite directions, interrupted by one flat mineral-green rectangle. Split Field composition, clean matte texture with one imperfect stitched edge, left-side safe zone for live HTML heading, contemporary and tactile, no collage machine, no handwriting, no logo, no generated text.
+> Avoid raw concept art, decorative abstraction, floating blobs, random ribbons, generic technology icons, icon collages, glossy 3D, glassmorphism, neon gradients, stock photography, childish doodles, fake handwritten paragraphs, broken hands, arbitrary fantasy machinery, random torn-paper stickers, uniform sepia, excessive grain, logos, watermarks, copyrighted characters, and imitation of a specific poster or artist.
