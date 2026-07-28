@@ -2,7 +2,17 @@
 
 Use this process when the user supplies posters, a moodboard, a design archive, or previous campaign outputs.
 
-## 1. Inventory the evidence
+Run this process only after selecting a content-specific visual anchor, action, and trace through [semantic-to-visual.md](semantic-to-visual.md). References guide how the idea is expressed; they do not decide what the design is about.
+
+## 1. Lock the semantic concept
+
+Write:
+
+> A [primary anchor] [action], causing [trace], so the viewer understands [content truth].
+
+Keep the anchor recognizable through every stylistic experiment.
+
+## 2. Inventory the evidence
 
 Inspect every relevant image at useful resolution. Record observable traits rather than artist names or vague labels:
 
@@ -18,7 +28,7 @@ Inspect every relevant image at useful resolution. Record observable traits rath
 
 If the referenced images are not in the current context or bundled assets, do not claim to have seen them. Ask for their location only when reference fidelity is required; otherwise continue with a fresh direction.
 
-## 2. Build a variable map
+## 3. Build a variable map
 
 Convert the references into independent variables. Example:
 
@@ -33,22 +43,23 @@ Convert the references into independent variables. Example:
 
 Do not collapse the map into one “average look.”
 
-## 3. Generate directions by recombination
+## 4. Generate directions by recombination
 
 Create at least three directions from different combinations of the variable map. Each direction must:
 
 - borrow principles from multiple references rather than tracing one;
 - change at least three axes from the others;
+- preserve or strengthen the selected content anchor and action;
 - state what is constant and what is new;
 - name one predictable choice it deliberately avoids.
 
 Use neutral direction names based on the visual logic, such as “Type as Landscape,” “Interrupted Grid,” or “Dark Object Stage.” Do not name directions after living artists.
 
-## 4. Select with a reason
+## 5. Select with a reason
 
-Choose the direction that best serves the message, audience, medium, and campaign context. Do not select merely because it is easiest to generate.
+Choose the direction that best serves the message, audience, medium, and campaign context. Give semantic clarity more weight than atmosphere or novelty. Do not select merely because it is easiest to generate.
 
-## 5. Check distance from the references and prior work
+## 6. Check distance from the references and prior work
 
 Before production, confirm:
 
@@ -57,7 +68,7 @@ Before production, confirm:
 - the result is not a palette swap of an earlier campaign asset;
 - the selected focal position, palette, and metaphor are not all repeated from the previous output.
 
-## 6. Check causal coherence
+## 7. Check causal coherence
 
 Ask why every major element is present:
 
@@ -66,10 +77,11 @@ Ask why every major element is present:
 - Does the typography participate in the visual logic?
 - Would replacing the focal object leave the idea unchanged?
 - Does the palette support atmosphere and hierarchy?
+- Does the scene still depict the intended content when the title is hidden?
 
 Remove any element that has no visual or semantic consequence.
 
-## 7. Check luminance and air
+## 8. Check luminance and air
 
 - Compare the amount of light, middle, and dark value.
 - Reject accidental all-dark or muddy directions.
