@@ -1,0 +1,31 @@
+{
+  "title": "Feature poster motion",
+  "duration_seconds": 6,
+  "fps": 24,
+  "loop": true,
+  "text_locked": true,
+  "motion_zones": [
+    {
+      "name": "primary trace",
+      "role": "carry the metaphor",
+      "components": ["outer ridges", "inner ridges", "accent ridge"],
+      "motion_type": "continuous ripple",
+      "cadence": "24 unique frames per second",
+      "neighbor_variation": ["alternating direction", "phase offset", "amplitude variance"],
+      "cause": "a current moves through the trace",
+      "background_restoration": "rebuild the paper beneath every moving ridge",
+      "loop_behavior": "integer cycles return all ridges to start"
+    },
+    {
+      "name": "mechanical cause",
+      "role": "explain the trace",
+      "components": ["roller", "handle", "paper", "printed marks"],
+      "motion_type": "held mechanical sequence",
+      "cadence": "8 poses per second inside 24 fps",
+      "neighbor_variation": ["staggered start", "different travel distance"],
+      "cause": "handle turns the roller and advances the paper",
+      "background_restoration": "clean machine and paper layers",
+      "loop_behavior": "paper advance resets behind the roller"
+    }
+  ]
+}
