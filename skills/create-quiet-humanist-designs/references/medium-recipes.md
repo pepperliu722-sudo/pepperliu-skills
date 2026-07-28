@@ -4,20 +4,22 @@ Read only the recipe relevant to the current deliverable.
 
 ## Poster and cover
 
-- Choose Quiet Field, Monument and Witness, or Object Theatre.
-- Reserve 55–85% quiet space.
-- Use one headline, one optional support line, and minimal credits or metadata.
+- Choose the composition family that best serves the message; do not default to Quiet Field, Monument and Witness, or Object Theatre.
+- Reserve roughly 45–85% quiet space according to the intended density.
+- Plan one exact headline, one optional support line, and minimal credits or metadata before generating the visual.
 - Check at thumbnail size and full size.
 - Common exports: 4:5 social poster, A-series print, 2:3 cover, 16:9 event screen.
-- Add exact typography after image generation.
+- Add exact typography after image generation and deliver the finished typeset artifact. An art-only visual is incomplete unless the user explicitly requested it.
 
 ## Social graphic
 
-- Keep the primary message under two short lines.
+- Keep the primary message concise enough to read at phone size.
 - Use a 4:5 master when feed reach matters; derive 1:1 and 16:9 crops.
 - Keep critical text and subject inside the central 80%.
 - Make the visual understandable without a caption.
 - Avoid logos unless identity or attribution requires one.
+- Include the requested feature name, concise description, and destination or brand when the graphic is promotional.
+- Deliver a typeset final graphic, not only a text-safe background.
 
 ## Email campaign or header
 
@@ -81,9 +83,9 @@ Read only the recipe relevant to the current deliverable.
 
 ## Cross-format campaign
 
-1. Design a master concept, palette, type behavior, and material treatment.
+1. Design two or three campaign constants and a variable matrix.
 2. Create the poster or hero as the emotional anchor.
 3. Derive simplified social crops.
 4. Translate, rather than crop, the concept into PPT title and section slides.
 5. Use a quieter header version for email.
-6. Keep the metaphor consistent while changing composition for each aspect ratio.
+6. Keep the campaign idea consistent while varying composition, palette weight, focal position, and metaphor execution across assets.
