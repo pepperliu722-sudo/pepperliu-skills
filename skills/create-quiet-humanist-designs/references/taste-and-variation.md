@@ -81,5 +81,9 @@ Reject a direction when:
 - the same object could be replaced without changing the concept;
 - the typography could be moved anywhere without affecting the composition;
 - the reference is recognizable as a template being copied.
+- the result uses a large clean headline, one attractive object, and a tasteful palette but contains no visual surprise;
+- the drawing is technically polished yet has no selective simplification, strange scale, material interruption, or intimate human observation;
+- “professional” alignment has made every element equally safe;
+- the palette repeats mustard, teal, cream, or charcoal by habit rather than content;
 
 Choose the direction where subject, action, trace, message, material, type, and space depend on one another.

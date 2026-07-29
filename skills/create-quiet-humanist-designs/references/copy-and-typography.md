@@ -26,12 +26,14 @@ If the user provides only a feature name, write a natural support line. Avoid in
 
 - Use no more than two type families or two visibly distinct modes.
 - Create hierarchy through scale, width, spacing, case, and position before adding effects.
-- Make the headline the first readable message and the function line the second information layer.
+- Make the headline easy to locate. It may lead or co-lead with the focal drawing according to the medium and reference grammar.
 - Keep factual copy stable and legible even when display type behaves expressively.
 - Do not generate essential text inside raster imagery.
 - Re-type exact words after image generation and proofread character by character.
 - Check punctuation, URL, dates, units, and line breaks.
 - Assemble the final type over or around the completed illustration using a deterministic layout tool. Do not treat the copy deck as a substitute for the typeset artifact.
+- Re-create hand-set feeling deterministically through selective letter spacing, baseline shifts, word-scale changes, rotation, stamping, or outline irregularity. Keep the exact character sequence inspectable.
+- Do not default to condensed grotesk plus monospaced support copy. Choose the type relationship from the concept and reference grammar.
 
 ## Medium rules
 

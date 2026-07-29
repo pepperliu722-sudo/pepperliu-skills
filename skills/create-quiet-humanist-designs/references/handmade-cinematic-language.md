@@ -15,17 +15,17 @@ Use this reference after the content concept and communication architecture are 
 
 ## Core character
 
-Combine authored imperfection with controlled poster design:
+Combine authored imperfection with controlled communication:
 
 - recognizable objects and gestures;
 - drawn or physically constructed forms;
-- strong editorial hierarchy;
+- intentional editorial hierarchy, which may be loud, quiet, scattered, or image-led;
 - limited but alive color;
 - analog print behavior;
 - cinematic framing or scene blocking;
 - one observed human detail.
 
-The result may feel made by hand and remembered from film, but it must remain functional.
+The result may feel drawn in a notebook, printed in a small studio, assembled from paper, or remembered from film. It must remain purposeful without becoming over-professionalized.
 
 ## Rendering families
 
@@ -33,7 +33,7 @@ These families specify how to render the chosen content. They never supply the s
 
 ### Drawn editorial rendering
 
-Render the selected scene with uneven ink, graphite, wax crayon, or dry brush. Keep all content-derived forms legible. Use flat printed fills or restrained collage fragments to create weight.
+Render the selected scene with sparse ink, graphite, wax crayon, or dry brush. Keep content-derived silhouettes and actions legible. Allow simplified perspective and disproportion when they sharpen the concept. Use flat printed fills or restrained collage fragments to create weight.
 
 ### Constructed physical rendering
 
@@ -61,6 +61,10 @@ Use a simple explanatory sequence with tactile marks and repeated states. Keep t
 
 Select all states and marks from the brief.
 
+### Naive editorial staging
+
+Reduce the scene to the fewest lines and color patches that preserve the subject, action, and emotional clue. Let one object be awkwardly literal, oversized, or isolated. Keep the line confident rather than uniformly wobbly.
+
 ### Cinematic staging
 
 Stage the content-derived scene with purposeful light, crop, depth, and scale. Let the action or consequence reveal the message.
@@ -71,14 +75,24 @@ Do not add a stock prop or symbolic shadow.
 
 Combine a content-specific image with one drawn intervention that clarifies mechanism or consequence. Avoid stock-photo polish and decorative doodles.
 
+## Hand-drawn may include
+
+- structurally readable but simplified anatomy;
+- deliberately flat space;
+- incomplete contours;
+- uneven hand-set letters;
+- a crayon fill that exceeds its boundary;
+- perspective that bends to improve the silhouette;
+- one literal or whimsical clue grounded in the content.
+
 ## Hand-drawn does not mean
 
-- childish anatomy;
+- accidental broken anatomy;
 - random squiggles;
 - every line wobbling equally;
 - low-detail objects that cannot be identified;
 - fake handwritten paragraphs;
-- an empty cream page with scattered marks;
+- an empty page with unrelated scattered marks;
 - abstract doodles added after the composition is complete.
 
 Use different mark behavior for different materials. Metal may use sharp ink and halftone; paper may use soft graphite and fiber; skin may use continuous contour; shadows may use dry crayon or coarse print.
@@ -120,7 +134,7 @@ Apply them locally. Preserve clean type and resting fields.
 
 ## Color behavior
 
-Use two to four major colors:
+Use one field and one to four pigments. Control proportion before harmony:
 
 - warm bone + charcoal + faded cobalt + old vermilion;
 - ochre + black + paper white + muted red;
@@ -129,20 +143,20 @@ Use two to four major colors:
 - washed yellow + blue ink + charcoal;
 - cool gray + muted violet + one signal yellow.
 
-Vary the palette by content and series position. Do not force every design into cream and blue.
+Vary the palette by content, supplied references, and series position. Do not force every design into cream and blue, mustard and teal, or any instant-vintage combination.
 
 Avoid muddy low-contrast combinations. Vintage color may be bright, flat, and slightly faded.
 
 ## Type character
 
-Combine one authoritative display voice with one factual support voice:
+Combine one authored display behavior with one factual support voice:
 
 - condensed grotesk + typewriter;
 - humanist serif + small grotesk;
 - hand-cut uppercase + neutral sans;
 - stamped display + restrained serif.
 
-Use handwriting for one short human note or annotation only.
+Also consider irregularly spaced small capitals, changing word scale, type embedded in a pigment patch, or a tiny factual phrase isolated in the field. Use handwriting for exact short copy only when it can be re-created deterministically and proofread.
 
 ## Final check
 
@@ -152,5 +166,6 @@ Confirm:
 - the action remains visible;
 - the print texture follows materials;
 - the composition feels staged rather than randomly arranged;
-- the title has more authority than the texture;
+- the title has a deliberate relationship to the drawing and field;
+- at least one decision resists a generic editorial template;
 - the result looks designed and assembled, not merely generated.

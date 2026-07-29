@@ -1,21 +1,22 @@
 ---
 name: create-quiet-humanist-designs
-description: Create communicative, content-specific humanist editorial designs with recognizable handmade imagery, strong poster hierarchy, finished copy, and accurate typography for product-feature posters, social graphics, campaigns, covers, email, presentations, frontend pages, web heroes, invitations, and editorial cards. Use when Codex must translate a feature, service, event, argument, story, or theme into a visual that explains and attracts; build hand-drawn, print-textured, collage, miniature-set, or vintage-cinematic art direction; adapt references without copying them; or create a coherent but varied series. Analyze content and select representative subjects, actions, and evidence before styling, then deliver a fully assembled communication artifact rather than a raw generated image.
+description: Create artistic, content-specific humanist editorial designs with recognizable handmade imagery, non-template composition, limited expressive color, integrated exact typography, and finished communication for posters, social graphics, campaigns, covers, email, presentations, frontend pages, web heroes, invitations, and editorial cards. Use when Codex must translate a feature, service, event, argument, story, or theme into an authored visual; adapt supplied poster, drawing, print, or collage references without copying them; avoid ordinary marketing-poster aesthetics; or build a coherent but varied design series. Analyze meaning and references before choosing subjects, marks, color, space, and type, then deliver a fully assembled artifact rather than raw generated art.
 ---
 
 # Create Quiet Humanist Designs
 
 ## Purpose
 
-Make communication design with a human hand and a cinematic memory. Let viewers recognize the subject, understand the promise, and want to look longer.
+Make communication design that feels drawn, printed, arranged, and reconsidered by a person. Let viewers understand the message and encounter one visual decision they could not have predicted from a poster template.
 
-Preserve three layers in this order:
+Preserve four layers:
 
-1. **communication:** the message and required information are immediately clear;
-2. **concept:** a content-specific object, action, or trace makes the message visible;
-3. **character:** drawing, print, collage, paper, light, and irregularity give the work a soul.
+1. **communication:** the message and required information are clear enough for the medium;
+2. **concept:** a content-specific object, action, trace, or association makes the message visible;
+3. **artistic decision:** scale, space, crop, color, mark, or type behaves in a memorable non-default way;
+4. **character:** drawing, print, collage, paper, light, and irregularity give the work a soul.
 
-Do not let concept art or texture replace communication.
+Do not let clarity become generic advertising. Do not let atmosphere or texture replace meaning.
 
 ## Non-negotiable order
 
@@ -23,11 +24,13 @@ Do not let concept art or texture replace communication.
 2. Write the communication spine.
 3. Extract representative visual anchors.
 4. Form a concrete visual sentence.
-5. Design the poster or layout architecture.
-6. Select a handmade or cinematic image language.
-7. Generate or construct the illustration layer.
-8. Assemble exact typography and identity.
-9. Verify the finished artifact in context.
+5. Extract the reference grammar when references exist.
+6. Choose one authored visual disruption.
+7. Design the poster or layout architecture.
+8. Select a handmade, printed, collaged, or cinematic image language.
+9. Generate or construct the illustration layer.
+10. Assemble exact typography and identity.
+11. Verify both communication and artistic distinctness.
 
 Do not begin with a style prompt. Do not deliver the generated illustration layer as the finished design.
 
@@ -102,7 +105,27 @@ Read [references/functional-poster-grammar.md](references/functional-poster-gram
 
 Make image and type interdependent. The illustration should point toward, frame, interrupt, carry, reveal, measure, or physically support the message. Do not reserve an arbitrary empty rectangle and call it composition.
 
-### 6. Select the image language
+### 6. Extract reference grammar and artistic tension
+
+When the user supplies visual references, inspect them before proposing directions. Separate:
+
+- field and negative-space shape;
+- line behavior;
+- flat color and material behavior;
+- image scale and imbalance;
+- relationship between drawing and type;
+- density rhythm;
+- the surprising or deliberately awkward decision.
+
+Read [references/artistic-editorial-language.md](references/artistic-editorial-language.md) and [references/creative-direction.md](references/creative-direction.md).
+
+Write one sentence:
+
+> The design will stay communicative by [stable element] and become authored by [one non-default spatial, material, or typographic decision].
+
+Do not copy a reference composition, motif, character, or lettering. Transfer the grammar.
+
+### 7. Select the image language
 
 Default functional work toward one of these:
 
@@ -114,13 +137,13 @@ Default functional work toward one of these:
 - tactile explanatory diagram;
 - typographic material treatment.
 
-Read [references/handmade-cinematic-language.md](references/handmade-cinematic-language.md).
+Read [references/handmade-cinematic-language.md](references/handmade-cinematic-language.md) and [references/artistic-editorial-language.md](references/artistic-editorial-language.md).
 
 Use photography, clean vector work, or more abstract systems only when they better serve the brief. “Humanist” does not mean polished realism, beige nostalgia, or random doodles.
 
 These are rendering methods, not subject libraries. Never select the visual object from the style family.
 
-### 7. Create varied directions
+### 8. Create varied directions
 
 Create at least three directions. Keep the communication spine stable, but change at least four of:
 
@@ -135,11 +158,11 @@ Create at least three directions. Keep the communication spine stable, but chang
 - material;
 - degree of cinematic staging.
 
-Inspect supplied references through [references/creative-direction.md](references/creative-direction.md) and check repetition through [references/taste-and-variation.md](references/taste-and-variation.md).
+Inspect supplied references through [references/creative-direction.md](references/creative-direction.md), check artistic language through [references/artistic-editorial-language.md](references/artistic-editorial-language.md), and check repetition through [references/taste-and-variation.md](references/taste-and-variation.md).
 
-Select the route that best balances immediate communication, memorable imagery, emotional fit, hand-made character, and medium fitness.
+Reject any route that could be described as “large clean headline plus an attractive object.” Select the route that best balances communication, memorable imagery, visual tension, hand-made character, and medium fitness.
 
-### 8. Produce and assemble
+### 9. Produce and assemble
 
 Read [references/prompt-patterns.md](references/prompt-patterns.md) when using image generation.
 
@@ -155,7 +178,7 @@ Use SVG, HTML/CSS, presentation software, a design tool, or a reproducible compo
 
 Never present an untypeset image-generation result as the final poster. Never replace final assembly with a prompt or a text-safe mockup.
 
-### 9. Verify the finished medium
+### 10. Verify the finished medium
 
 Read [references/medium-recipes.md](references/medium-recipes.md). Render the assembled artifact at real size and thumbnail size.
 
@@ -169,14 +192,24 @@ Check:
 - exact typography;
 - crop, contrast, and destination.
 
+Then run the ordinary-poster test:
+
+- Would swapping the subject and headline produce another plausible ad?
+- Is the palette merely tasteful, or does its proportion create a specific mood?
+- Does the composition contain one deliberate imbalance, interruption, or scale surprise?
+- Does the line or shape language reveal a hand, or only imitate a filter?
+- Does the typography participate in the image rather than occupy a safe box?
+
+If the first answer is yes, or the remaining answers are no, redesign before delivery.
+
 ## Handmade and cinematic defaults
 
-- Favor drawn contours, dry ink, graphite, crayon, screen-print grain, halftone, imperfect registration, scissor-cut edges, aged paper, or constructed tabletop materials.
+- Favor decisive but imperfect contours, dry ink, graphite, crayon, screen-print blocks, halftone, imperfect registration, scissor-cut edges, paper fiber, or constructed materials.
 - Let imperfections follow the object: ink pools at corners, pencil corrections follow gestures, grain changes by material, and shadows reveal depth.
 - Use vintage-film logic through framing, blocking, scale, prop selection, title-card hierarchy, dramatic crops, and directional light—not through sepia alone.
-- Keep objects structurally recognizable. Hand-drawn does not mean anatomically broken or childishly vague.
-- Use restrained but alive color: bone, charcoal, faded blue, old red, mineral green, ochre, washed yellow, or other context-led combinations.
-- Keep at least one clean field so the poster can breathe and the copy can work.
+- Keep objects recognizable, but allow simplified, naive, or disproportionate drawing when the silhouette and action remain legible.
+- Use one field color plus one to three pigments. Let color arrive as an uneven patch, interruption, or counterweight rather than a safe branding palette.
+- Use quiet space as active composition. It may isolate a small image island, separate fragments, or make one awkward object feel monumental.
 
 ## Functional poster contract
 
@@ -187,6 +220,7 @@ For posters, covers, social graphics, campaign cards, title slides, and web hero
 - make the focal image explain or dramatize the content;
 - include identity, destination, or factual metadata when known;
 - design a deliberate eye path;
+- include one authored decision that resists a generic poster template;
 - deliver the final composite with exact type;
 - retain an editable or reproducible source.
 
@@ -212,6 +246,10 @@ For three or more related assets:
 - generic icon lists or literal icon collages;
 - childish doodles used as a shortcut for human feeling;
 - polished 3D, glossy AI imagery, glassmorphism, or stock-photo advertising;
+- ordinary editorial advertising built from a large condensed headline, one centered or right-aligned object, and a tasteful complementary palette;
+- realistic object photography used merely because it is easy to recognize;
+- safe mustard, teal, cream, and charcoal combinations repeated without content-based reason;
+- a clean copy column placed beside an illustration with no tension or interaction;
 - texture applied uniformly like a filter;
 - sepia used as the whole meaning of vintage;
 - every canvas cream-and-cobalt, dark brown, or distressed;
@@ -223,7 +261,7 @@ For three or more related assets:
 Do not deliver until every answer is yes:
 
 1. Does it look like a finished communication artifact rather than a generated picture?
-2. Is the headline the first readable message?
+2. Is the headline or central claim readable in the intended viewing context?
 3. Is the function, invitation, or consequence stated plainly?
 4. Does the image visibly belong to this specific subject?
 5. Does the anchor perform an action or leave evidence?
@@ -234,6 +272,8 @@ Do not deliver until every answer is yes:
 10. Does it work at both full size and thumbnail size?
 11. Is it distinct from earlier work without abandoning the campaign?
 12. Is the final composite—not only the art layer—delivered?
+13. Is there at least one deliberate spatial, chromatic, material, or typographic decision that feels authored rather than template-derived?
+14. Would the piece remain recognizably itself if the logo and headline were hidden?
 
 ## Handoff
 
