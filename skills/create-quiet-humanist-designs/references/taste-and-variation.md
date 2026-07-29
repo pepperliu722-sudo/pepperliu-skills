@@ -20,6 +20,7 @@ The following directions come from observable principles across supplied referen
 | Tactile sequence | Several content-derived states show a clear change | graphite, stamps, layered strips | light field with two flat pigments | labels form a stable rhythm | process reads like a small film |
 | Cinematic stage | A content-specific scene holds before-or-after tension | halftone, projected light, painted field | saturated or dark field with clear contrast | title-card hierarchy | blocking creates narrative tension |
 | Mixed-media scene | Drawing meets one or two justified material fragments | crayon, pencil, photocopy | context-led palette | authored display plus factual support | rough marks remain tightly composed |
+| Symbolic protagonist | A named role performs one brief-specific behavior with a prop and trace | drawn construction, paper figure, halftone portrait, or staged object | field and signal color follow the action | type points to, interrupts, or is carried by the character | the role becomes memorable without becoming a reusable mascot |
 
 ## Luminance discipline
 
@@ -62,6 +63,17 @@ Examples:
 - If the last pieces used objects in the lower-right, let activity enter from the top edge or occupy a central ribbon.
 - If every headline was upper-left condensed uppercase, curve the title, hide part of it behind material, or use a small factual island.
 
+Treat repeated reasoning habits as seriously as repeated colors. Check whether
+the last pieces repeatedly used:
+
+- texture and palette before a content concept;
+- a page, hand, line, thread, or tiny figure as an automatic symbol;
+- one object in a tasteful field with no action;
+- abstract “transformation” instead of a visible cause and consequence;
+- three stylistic variants of one semantic route.
+
+Ban at least two recurring structural habits before prompting image generation.
+
 ## Taste gate
 
 Reject a direction when:
@@ -85,5 +97,10 @@ Reject a direction when:
 - the drawing is technically polished yet has no selective simplification, strange scale, material interruption, or intimate human observation;
 - “professional” alignment has made every element equally safe;
 - the palette repeats mustard, teal, cream, or charcoal by habit rather than content;
+- the character can only be described as a generic person, robot, or cute
+  figure;
+- the character has a striking portrait but no behavior, prop, interruption,
+  or visible consequence tied to the brief;
+- the direction began with a style recipe and retrofitted an idea afterward;
 
 Choose the direction where subject, action, trace, message, material, type, and space depend on one another.
