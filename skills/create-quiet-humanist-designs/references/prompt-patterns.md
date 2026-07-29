@@ -28,6 +28,10 @@ Record:
 
 Do not ask the image model to improvise the final poster layout.
 
+Add:
+
+> Authored disruption: [one unexpected scale, field, crop, mark, color proportion, or image–type behavior]. Ordinary-poster habit forbidden: [specific safe layout or styling choice].
+
 ## 3. Choose the illustration family
 
 Prefer:
@@ -50,9 +54,17 @@ Replace every bracketed field:
 
 > Create the illustration layer for a functional [poster/social graphic/cover/title slide/web hero] about [specific content truth]. Show a clearly recognizable [primary anchor] [specific action] with [supporting clue], visibly producing [evidence/result]. The scene must communicate [subject area and mechanism] before any title is added. Image language: [rendering method], built from [two or three analog techniques]. Keep all content-derived forms structurally legible and every physical interaction plausible. Stage them with [cinematic blocking, crop, scale, or directional light]. Controlled palette: [two neutrals], [dominant], and optional [accent]. Preserve the planned [headline/function-line] area at [location], but let the illustration [chosen image–type relationship] rather than sitting independently. Mood: [two adjectives]. Include one observed human irregularity: [specific detail derived from the scene]. [Aspect ratio and resolution]. No essential words, logo, watermark, unrelated symbols, floating abstract shapes, glossy 3D, stock-photo advertising, or uniform texture filter.
 
+Add:
+
+> Use [dominant field percentage] of [field], [percentage] of [main pigment], and only a small [signal pigment]. Preserve visible [line/roller/crayon/registration behavior]. Introduce one authored disruption: [specific choice]. Keep the result flatter, stranger, and more selective than a conventional marketing poster while preserving the recognizable subject and action.
+
 Add one series-specific avoidance:
 
 > Do not repeat [recent anchor, quadrant, palette, title behavior, or composition].
+
+Also forbid the relevant generic fallback:
+
+> Do not solve this as a large sans-serif headline beside one realistic object on a tasteful textured background.
 
 ## Family patterns
 

@@ -35,7 +35,7 @@ Keep it small, precise, and visually stable.
 
 ### 2. Headline
 
-Make the name or claim the first readable message. Use scale, position, case, or contrast—not effects—to establish authority.
+Make the name or claim readable in the intended viewing context. For direct promotional work it is usually first. For editorial or poetic work it may co-lead with the focal drawing, provided the viewer can still find it without searching.
 
 ### 3. Function line
 
@@ -55,14 +55,14 @@ Optionally add one short handwritten, typewritten, or stamped phrase. It may add
 
 ## Poster spine
 
-Build the composition around one reading path:
+Build the composition around one intentional reading path. A direct path is:
 
 1. headline;
 2. focal image;
 3. function line;
 4. identity or action.
 
-The eye may move differently, but the hierarchy must remain clear.
+An artistic path may begin with a striking image–word relationship, move to the headline, then return to a small function line. The hierarchy must be intentional, not uniformly loud.
 
 ## Image–type relationships
 
@@ -116,15 +116,33 @@ Do not place image and copy independently on opposite sides without a visual rea
 - Keep the title readable.
 - Use for simple claims, event names, and memorable social graphics.
 
+### Isolated image fable
+
+- Place one compact content-specific scene inside a much larger active field.
+- Let one short line of type approach, name, or disturb the image island.
+- Use when intimacy, observation, or a small human truth matters more than scale.
+
+### Wandering editorial diagram
+
+- Arrange 3–5 accurate states as fragments separated by meaningful pauses.
+- Connect them with one imperfect line, arrow rhythm, or repeated mark.
+- Keep the order legible without turning the scene into a corporate flowchart.
+
+### Uneven title field
+
+- Break the headline into different scales, alignments, or positions that respond to the drawing.
+- Keep every required word readable.
+- Use one stable factual zone for support copy or metadata.
+
 ## Density
 
-For feature and promotional posters, default to editorial density rather than extreme emptiness:
+For direct feature and promotional posters, editorial density may use:
 
 - 20–35% headline and support;
 - 35–60% focal image or scene;
 - 10–20% breathing field and metadata.
 
-Treat these as balance checks, not rigid measurements. Extreme negative space is an intentional exception.
+Treat these as one option, not a default template. Reference-led artistic work may use 60–85% active quiet field when the isolated image and typography create enough tension.
 
 ## Thumbnail test
 
@@ -142,6 +160,9 @@ At approximately 20% size:
 - only the caption explains the function;
 - the image is atmospheric but inactive;
 - the title looks pasted onto a completed illustration;
+- the piece uses a clean copy column and an attractive object but has no authored tension;
+- the headline is large only because the composition has no other idea;
+- professional balance has removed surprise, intimacy, or material character;
 - the object is too small or abstract to identify;
 - there is no brand, source, date, URL, or action where one is needed;
 - the piece resembles a moodboard image more than a designed poster.
