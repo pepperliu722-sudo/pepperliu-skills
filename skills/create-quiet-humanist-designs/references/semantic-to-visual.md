@@ -9,6 +9,7 @@ Use this reference before choosing style, palette, composition, or image-generat
 - Create and score an anchor inventory
 - Form a visual sentence
 - Choose literalness
+- Build a concrete symbolic protagonist when agency is central
 - Branching without canonical mappings
 - Recognition tests
 - Familiar-object safeguards
@@ -104,7 +105,35 @@ For product features, promotional posters, social graphics, and title visuals, d
 
 Do not mistake realism for clarity. A simplified ink drawing of a specific tool in action may communicate better than a photoreal scene.
 
-## 7. Branch without canonical mappings
+## 7. Build a concrete symbolic protagonist when agency is central
+
+Use this route when the content involves agreement, refusal, persuasion,
+authority, assistance, authorship, conflict, care, performance, or another
+behavior that a viewer can recognize in an actor.
+
+Derive the protagonist from five parts:
+
+| Part | Question |
+|---|---|
+| Role | What force, habit, person, or system is acting? |
+| Silhouette | What physical structure makes it recognizable at thumbnail size? |
+| Prop | What content-specific tool or object proves where it belongs? |
+| Behavior | What repeated gesture or action reveals its character? |
+| Trace | What changes, accumulates, breaks, branches, stains, or remains afterward? |
+
+Write a temporary descriptive name from role plus behavior, such as “the
+nodding assistant” or “the editor who erases every pause.” A strong name helps
+the design team remember the visual logic. It is not permission to reuse the
+character in unrelated work.
+
+The character must do more than pose. Its body, prop, gesture, and consequence
+should form the visual sentence. Compare it with at least one object,
+environment, process, or trace route before selecting it.
+
+Do not force personification when the content is better explained by a real
+workflow, document, material transformation, or physical mechanism.
+
+## 8. Branch without canonical mappings
 
 For every brief, create at least three semantic routes from different roles: direct subject, action, trace, environment, transformation, or precise analogy.
 
@@ -112,7 +141,7 @@ Do not store topic-to-object pairs in the skill. Do not reuse a prior anchor bec
 
 Examples supplied by a user are evidence about reasoning quality, not default visual assets.
 
-## 8. Recognition tests
+## 9. Recognition tests
 
 ### Headline-off test
 
@@ -134,7 +163,20 @@ Reduce to feed size. The anchor and action should remain visible before texture 
 
 If the visual requires more than one short sentence to connect it to the content, simplify the relationship.
 
-## 9. Avoid semantic clichés without banning objects
+### Nameable-protagonist test
+
+When a character route exists, hide the title and describe the figure in five
+words or fewer. If the best description is only “person,” “robot,” “writer,”
+or “cute paper figure,” strengthen the role, silhouette, prop, behavior, or
+trace.
+
+### Portrait-without-action test
+
+Freeze or remove the protagonist's action. If the meaning does not weaken, the
+character is probably decorative. Give it a more specific gesture,
+interaction, interruption, or consequence.
+
+## 10. Avoid semantic clichés without banning objects
 
 Do not maintain a universal blacklist. A familiar object can work when:
 
