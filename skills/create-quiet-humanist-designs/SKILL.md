@@ -77,6 +77,13 @@ Shortlist three using:
 - strong silhouette or structure;
 - freshness within the series.
 
+When the content contains agency, behavior, conflict, social roles, or a
+human–tool relationship, include at least one **concrete symbolic
+protagonist** route. Give it a recognizable silhouette, one content-derived
+prop, one characteristic behavior, and one consequential trace. It may be a
+person, creature, constructed figure, personified object, or staged role, but
+it must arise from the current brief rather than a reusable mascot library.
+
 Do not maintain canonical object mappings for any topic or feature name. Select every visual anchor from the current content model and compare it with alternatives before use.
 
 ### 4. Form the visual sentence
@@ -86,6 +93,17 @@ For each shortlisted route, write:
 > A [recognizable anchor] [specific action] with [supporting clue], producing [visible evidence], so the viewer understands [function or message].
 
 Use one primary anchor, one supporting clue, and one consequential trace. Prefer a simple scene with a precise idea over an elaborate allegory.
+
+For a symbolic-protagonist route, also state:
+
+- a short descriptive name based on its role or behavior;
+- the silhouette or physical feature that makes it identifiable;
+- the prop or gesture that links it to the content;
+- the repeated action, tension, or interruption that creates the story;
+- the evidence left behind when the action changes.
+
+Use the name only as a design-development test. Do not turn the figure into a
+recurring brand character unless the user asks for one.
 
 Pass the recognition tests in [references/semantic-to-visual.md](references/semantic-to-visual.md). Pure abstraction is not a default for functional communication.
 
@@ -158,6 +176,11 @@ Create at least three directions. Keep the communication spine stable, but chang
 - material;
 - degree of cinematic staging.
 
+Directions must differ in semantic logic, not merely palette, crop, or
+rendering style. When the brief calls for a memorable symbol or portrait,
+include one named symbolic-protagonist route and at least one non-character
+route so the character wins by comparison rather than by default.
+
 Inspect supplied references through [references/creative-direction.md](references/creative-direction.md), check artistic language through [references/artistic-editorial-language.md](references/artistic-editorial-language.md), and check repetition through [references/taste-and-variation.md](references/taste-and-variation.md).
 
 Reject any route that could be described as “large clean headline plus an attractive object.” Select the route that best balances communication, memorable imagery, visual tension, hand-made character, and medium fitness.
@@ -195,6 +218,10 @@ Check:
 Then run the ordinary-poster test:
 
 - Would swapping the subject and headline produce another plausible ad?
+- If the image contains a protagonist, can it be named by a specific role or
+  behavior rather than only “a person,” “a robot,” or “a figure”?
+- Does the protagonist have a content-derived prop, action, and visible
+  consequence, or is it only an attractive portrait?
 - Is the palette merely tasteful, or does its proportion create a specific mood?
 - Does the composition contain one deliberate imbalance, interruption, or scale surprise?
 - Does the line or shape language reveal a hand, or only imitate a filter?
@@ -255,6 +282,12 @@ For three or more related assets:
 - every canvas cream-and-cobalt, dark brown, or distressed;
 - generated gibberish, missing support copy, or decorative illegibility;
 - copying a recognizable poster, artist, character, or brand treatment.
+- beginning with paper texture, nostalgic color, print effects, or a style
+  prompt before the content model, anchor inventory, and visual sentence exist;
+- an attractive symbolic figure with no content-derived behavior, prop, or
+  evidence;
+- three “directions” that are only the same concept in different palettes or
+  rendering styles.
 
 ## Quality gate
 
@@ -274,6 +307,9 @@ Do not deliver until every answer is yes:
 12. Is the final composite—not only the art layer—delivered?
 13. Is there at least one deliberate spatial, chromatic, material, or typographic decision that feels authored rather than template-derived?
 14. Would the piece remain recognizably itself if the logo and headline were hidden?
+15. When agency or conflict is central, does at least one explored route use a
+    concrete, nameable protagonist—and does the selected route still beat the
+    non-character alternatives on meaning rather than novelty alone?
 
 ## Handoff
 
